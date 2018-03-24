@@ -54,9 +54,9 @@ for annee_url in annees_url:
             warn('Request: {}; Status code: {}'.format(requests, response.status_code))
 
         # Break the loop if the number of requests is greater than expected
-        if requests > 3:
-            warn('Number of requests was greater than expected.')  
-            break 
+        if requests > 100:
+            warn('Number of requests was greater than expected.')
+            break
 
         # Parse the content of the request with BeautifulSoup
         page_html = BeautifulSoup(response.text, 'html.parser')
@@ -117,4 +117,3 @@ test_df = pd.DataFrame({'movie': names,
                        'spectators_rating' : spectators_ratings})
 print(test_df.info())
 test_df.head(15)
-
