@@ -68,8 +68,11 @@ for container in movie_containers:
             producers.append(np.nan)
         
         # The actors
-        actor=container.div.div.find('div', class_='meta-body-item meta-body-actor light').span.text
-        actors.append(actor)
+        film_actors = str()
+        for actor_container in container.div.div.find('div', class_='meta-body-item meta-body-actor light').find_all('span'):
+            actor=actor_container.text
+            film_actors += "{} ; ".format(actor)
+        actors.append(film_actors)
 
         type_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].span.text
         first_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].div.find('span', class_='stareval-note').text[-3:]
@@ -95,10 +98,10 @@ for container in movie_containers:
 test_df = pd.DataFrame({'movie': names,
                        'date': dates,
                        'producer': producers,
-                       'actor': actors,
+                       'actors': actors,
                        'press_rating': press_ratings,
                        'spectators_rating' : spectators_ratings})
 print(test_df.info())
 test_df
 
-test_df.to_csv('scrapperv3.csv')
+test_df.to_csv('scrapperv5.csv') # Change version
