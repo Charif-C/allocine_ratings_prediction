@@ -95,8 +95,11 @@ for annee_url in annees_url:
 
                 # Scrape the actors
                 try:
-                    actor=container.div.div.find('div', class_='meta-body-item meta-body-actor light').span.text
-                    actors.append(actor)
+                    film_actors = str()
+                    for actor_container in container.div.div.find('div', class_='meta-body-item meta-body-actor light').find_all('span'):
+                        actor=actor_container.text
+                        film_actors += "{} ; ".format(actor)
+                    actors.append(film_actors)
                 except AttributeError:
                     actors.append(np.nan)
 
@@ -128,10 +131,10 @@ for annee_url in annees_url:
 test_df = pd.DataFrame({'movie': names,
                        'date': dates,
                        'producer': producers,
-                       'actor': actors,
+                       'actors': actors,
                        'press_rating': press_ratings,
                        'spectators_rating' : spectators_ratings})
 print(test_df.info())
 test_df.head(15)
 
-#test_df.to_csv('scrapperv4.csv') Change version!
+test_df.to_csv('scrapperv6.csv') # Change version!
