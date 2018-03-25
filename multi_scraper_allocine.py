@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 # In[1]:
@@ -11,6 +10,7 @@ from time import sleep, time
 from random import randint
 from IPython.core.display import clear_output
 from warnings import warn
+import numpy as np
 
 
 # In[6]:
@@ -31,10 +31,10 @@ spectators_ratings=[]
 start_time = time()
 requests = 0
 
-# For every year in the interval 2015-2018
+# For every year in the interval 2010-2017
 for annee_url in annees_url:
 
-    # For every page in the interval 1-3
+    # For every page in the interval 1-4
     for page_url in pages_url:
 
         # Make a get request
@@ -73,37 +73,53 @@ for annee_url in annees_url:
             if rating_box != []:
 
                 # Scrape the name
-                name=container.div.h2.a.text
-                names.append(name)
+                try:
+                    name=container.div.h2.a.text
+                    names.append(name)
+                except AttributeError:
+                    names.append(np.nan)
 
                 # Scrape the date
-                date=container.div.div.div.span.text
-                dates.append(date)
+                try:
+                    date=container.div.div.div.span.text
+                    dates.append(date)
+                except AttributeError:
+                    dates.append(np.nan)
 
                 # Scrape the producer
-                producer=container.div.div.find('div', class_='meta-body-item meta-body-direction light').span.text
-                producers.append(producer)
+                try:
+                    producer=container.div.div.find('div', class_='meta-body-item meta-body-direction light').span.text
+                    producers.append(producer)
+                except AttributeError:
+                    producers.append(np.nan)
 
                 # Scrape the actors
-                actor=container.div.div.find('div', class_='meta-body-item meta-body-actor light').text
-                actors.append(actor)
+                try:
+                    actor=container.div.div.find('div', class_='meta-body-item meta-body-actor light').span.text
+                    actors.append(actor)
+                except AttributeError:
+                    actors.append(np.nan)
 
-                type_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].span.text
-                first_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].div.find('span', class_='stareval-note').text
-                # Scrape the press rating
-                if type_rating == ' Presse ':
-                    press=first_rating
-                    press_ratings.append(press)
-                    if len(container.find('div', class_='rating-holder').find_all('div', class_='rating-item')) > 2:
-                        spectator=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[1].div.find('span', class_='stareval-note').text
-                        spectators_ratings.append(spectator)
+                try:
+                    type_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].span.text
+                    first_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].div.find('span', class_='stareval-note').text[-3:]
+                    # Scrape the press rating
+                    if type_rating == ' Presse ':
+                        press=first_rating
+                        press_ratings.append(press)
+                        if len(container.find('div', class_='rating-holder').find_all('div', class_='rating-item')) > 2:
+                            spectator=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[1].div.find('span', class_='stareval-note').text[-3:]
+                            spectators_ratings.append(spectator)
+                        else:
+                            spectators_ratings.append(np.nan)
+                    # Scrape the spectators rating
                     else:
-                        spectators_ratings.append('\n                0')
-                # Scrape the spectators rating
-                else:
-                    spectator=first_rating
-                    spectators_ratings.append(spectator)
-                    press_ratings.append('\n                0')
+                        spectator=first_rating
+                        spectators_ratings.append(spectator)
+                        press_ratings.append(np.nan)
+                except AttributeError:
+                    spectators_ratings.append(np.nan)
+                    press_ratings.append(np.nan)
 
 
 # In[7]:
@@ -117,3 +133,5 @@ test_df = pd.DataFrame({'movie': names,
                        'spectators_rating' : spectators_ratings})
 print(test_df.info())
 test_df.head(15)
+
+#test_df.to_csv('scrapperv4.csv') Change version!

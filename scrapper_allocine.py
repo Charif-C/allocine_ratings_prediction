@@ -1,4 +1,3 @@
-
 # coding: utf-8
 
 # In[94]:
@@ -7,6 +6,7 @@
 from requests import get
 from bs4 import BeautifulSoup
 import pandas as pd
+import numpy as np
 
 
 # In[95]:
@@ -61,29 +61,32 @@ for container in movie_containers:
         dates.append(date)
         
         # The producer
-        producer=container.div.div.find('div', class_='meta-body-item meta-body-direction light').span.text
-        producers.append(producer)
+        try:
+            producer=container.div.div.find('div', class_='meta-body-item meta-body-direction light').span.text
+            producers.append(producer)
+        except AttributeError:
+            producers.append(np.nan)
         
         # The actors
-        actor=container.div.div.find('div', class_='meta-body-item meta-body-actor light').text
+        actor=container.div.div.find('div', class_='meta-body-item meta-body-actor light').span.text
         actors.append(actor)
 
         type_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].span.text
-        first_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].div.find('span', class_='stareval-note').text
+        first_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].div.find('span', class_='stareval-note').text[-3:]
         # The press rating
         if type_rating == ' Presse ':
             press=first_rating
             press_ratings.append(press)
             if len(container.find('div', class_='rating-holder').find_all('div', class_='rating-item')) == 2:
-                spectator=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[1].div.find('span', class_='stareval-note').text
+                spectator=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[1].div.find('span', class_='stareval-note').text[-3:]
                 spectators_ratings.append(spectator)
             else:
-                spectators_ratings.append('\n                0')
+                spectators_ratings.append(np.nan)
         # The spectators rating
         elif type_rating == ' Spectateurs ':
             spectator=first_rating
             spectators_ratings.append(spectator)
-            press_ratings.append('\n                0')
+            press_ratings.append(np.nan)
 
 
 # In[100]:
@@ -98,3 +101,4 @@ test_df = pd.DataFrame({'movie': names,
 print(test_df.info())
 test_df
 
+test_df.to_csv('scrapperv3.csv')
