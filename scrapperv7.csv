@@ -1,0 +1,1015 @@
+actors;;;date;movie;press_rating;producer;spectators_rating
+0,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+1,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+2,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+3,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+4,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+5,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+6,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+7,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+8,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+9,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+10,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+11,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+12,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+13,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+14,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+15,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+16,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+17,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+18,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+19,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+20,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+21,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+22,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+23,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+24,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+25,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+26,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+27,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+28,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+29,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+30,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+31,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+32,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+33,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+34,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+35,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+36,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+37,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+38,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+39,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+40,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+41,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+42,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+43,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+44,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+45,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+46,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+47,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+48,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+49,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+50,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+51,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+52,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+53,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+54,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+55,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+56,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+57,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+58,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+59,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+60,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+61,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+62,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+63,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+64,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+65,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+66,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+67,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+68,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+69,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+70,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+71,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+72,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+73,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+74,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+75,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+76,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+77,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+78,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+79,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+80,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+81,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+82,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+83,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+84,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+85,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+86,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+87,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+88,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+89,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+90,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+91,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+92,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+93,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+94,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+95,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+96,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+97,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+98,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+99,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+100,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+101,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+102,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+103,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+104,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+105,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+106,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+107,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+108,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+109,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+110,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+111,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+112,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+113,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+114,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+115,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+116,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+117,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+118,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+119,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+120,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+121,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+122,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+123,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+124,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+125,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+126,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+127,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+128,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+129,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+130,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+131,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+132,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+133,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+134,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+135,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+136,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+137,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+138,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+139,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+140,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+141,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+142,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+143,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+144,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+145,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+146,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+147,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+148,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+149,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+150,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+151,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+152,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+153,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+154,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+155,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+156,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+157,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+158,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+159,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+160,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+161,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+162,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+163,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+164,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+165,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+166,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+167,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+168,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+169,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+170,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+171,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+172,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+173,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+174,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+175,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+176,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+177,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+178,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+179,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+180,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+181,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+182,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+183,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+184,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+185,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+186,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+187,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+188,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+189,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+190,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+191,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+192,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+193,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+194,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+195,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+196,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+197,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+198,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+199,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+200,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+201,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+202,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+203,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+204,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+205,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+206,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+207,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+208,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+209,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+210,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+211,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+212,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+213,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+214,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+215,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+216,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+217,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+218,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+219,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+220,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+221,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+222,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+223,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+224,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+225,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+226,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+227,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+228,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+229,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+230,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+231,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+232,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+233,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+234,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+235,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+236,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+237,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+238,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+239,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+240,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+241,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+242,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+243,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+244,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+245,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+246,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+247,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+248,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+249,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+250,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+251,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+252,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+253,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+254,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+255,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+256,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+257,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+258,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+259,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+260,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+261,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+262,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+263,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+264,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+265,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+266,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+267,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+268,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+269,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+270,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+271,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+272,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+273,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+274,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+275,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+276,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+277,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+278,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+279,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+280,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+281,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+282,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+283,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+284,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+285,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+286,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+287,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+288,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+289,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+290,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+291,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+292,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+293,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+294,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+295,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+296,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+297,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+298,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+299,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+300,Rainn Wilson ; Ellen Page ; Liv Tyler ;1 décembre 2011;Super;;James Gunn (II);3,5
+301,Jean-Paul Rouve ; Isabelle Nanty ; Claire Nadeau ;01-juil-11;Les Tuche;2,3;Olivier Baroux;2,6
+302,Leonardo DiCaprio ; Marion Cotillard ; Ellen Page ;21-juil-10;Inception;4,1;Christopher Nolan;4,4
+303,Bruce Willis ; Morgan Freeman ; Helen Mirren ;17-nov-10;Red;2,8;Robert Schwentke;3,5
+304,François Cluzet ; Marion Cotillard ; Benoît Magimel ;20-oct-10;Les petits mouchoirs;2,9;Guillaume Canet;3,6
+305,Sarah Jessica Parker ; Kim Cattrall ; Kristin Davis ;02-juin-10;Sex and the City 2;2,5;Michael Patrick King;2,4
+306,Benoît Poelvoorde ; Dany Boon ; Julie Bernard ;2 février 2011;Rien à déclarer;2,2;Dany Boon;2,5
+307,Leonardo DiCaprio ; Mark Ruffalo ; Ben Kingsley ;24 février 2010;Shutter Island;3,8;Martin Scorsese;4,3
+308,Vincent Elbaz ; Gregori Derangère ; Mélanie Bernier ;09-mars-11;L'Assaut;2,8;Julien Leclercq;3,6
+309,Rémy Girard ; Lubna Azabal ; Mélissa Désormeaux-Poulin ;12-janv-11;Incendies;3,8;Denis Villeneuve;4,4
+310,Mario Casas ; María Valverde ; Álvaro Cervantes ;21 août 2013;3 mètres au-dessus du ciel - Twilight Love;;Fernando González Molina;4,2
+311,Natalie Portman ; Mila Kunis ; Vincent Cassel ;9 février 2011;Black Swan;4,1;Darren Aronofsky;4,1
+312,Johnny Depp ; Mia Wasikowska ; Matt Lucas ;24-mars-10;Alice au Pays des Merveilles;3,5;Tim Burton;3,3
+313,Patrick Wilson ; Rose Byrne ; Ty Simpkins ;15-juin-11;Insidious;3,2;James Wan;3,5
+314,Carey Mulligan ; Andrew Garfield ; Keira Knightley ;02-mars-11;Never Let Me Go;3;Mark Romanek;3,5
+315,Jean Reno ; Kad Merad ; Marina Foïs ;24-mars-10;L'Immortel;2,4;Richard Berry;3,4
+316,Colin Firth ; Helena Bonham Carter ; Derek Jacobi ;2 février 2011;Le Discours d'un roi;4;Tom Hooper;4,3
+317,Romain Duris ; Vanessa Paradis ; Julie Ferrier ;17-mars-10;L'Arnacoeur;4;Pascal Chaumeil;3,9
+318,Donald Reignoux ; Emmanuel Jacomy ; Florine Orphelin ;31-mars-10;Dragons;3,8;Chris Sanders;4,4
+319,Ryan Reynolds ; Erik Palladino ; Robert Paterson ;03-nov-10;Buried;3,6;Rodrigo Cortés;3,3
+320,Srdjan Todorovic ; Sergej Trifunovic ; Jelena Gavrilovic ;2 février 2012;A Serbian Film;;Srdjan Spasojevic;2,1
+321,James Franco ; Amber Tamblyn ; Kate Mara ;23 février 2011;127 heures;3,2;Danny Boyle;3,9
+322,Adrien Brody ; Alice Braga ; Topher Grace ;14-juil-10;Predators;2,5;Nimrod Antal;2,5
+323,Robert Pattinson ; Emilie de Ravin ; Chris Cooper ;07-avr-10;Remember Me;2,4;Allen Coulter;3,9
+324,Jesse Eisenberg ; Justin Timberlake ; Andrew Garfield ;13-oct-10;The Social Network;4,4;David Fincher;4
+325,Vincent Claude ; Elie Semoun ; Bruno Podalydès ;22-juin-11;L'Elève Ducobu;2,1;Philippe de Chauveron;2,2
+326,Ben Affleck ; Rebecca Hall ; Jon Hamm ;15-sept-10;The Town;3,5;Ben Affleck;3,9
+327,Michael Gregorio ; James Marsden ; Kaley Cuoco ;06-juil-11;Hop;2,1;Tim Hill;2,8
+328,Maeva Méline ; Romain Duris ; Isabelle Adjani ;1 décembre 2010;Raiponce;3,8;Byron Howard;4,3
+329,Daniel Radcliffe ; Rupert Grint ; Emma Watson ;24-nov-10;Harry Potter et les reliques de la mort - partie 1;3,2;David Yates;4,1
+330,Moises Arias ; Bridgit Mendler ; David Henrie ;12-janv-11;Arrietty le petit monde des chapardeurs;3,7;Hiromasa Yonebayashi;4,1
+331,John Travolta ; Jonathan Rhys-Meyers ; Kasia Smutniak ;17 février 2010;From Paris With Love;2,4;Pierre Morel;2,5
+332,Jacques Gamblin ; Sara Forestier ; Zinedine Soualem ;24-nov-10;Le Nom des gens;3,7;Michel Leclerc;3,8
+333,Ramzy Bedia ; Anne Marivin ; Marie-France Pisier ;27-oct-10;Il reste du jambon ?;1,8;Anne Depetrini;1,9
+334,Valérie Donzelli ; Jérémie Elkaïm ; Elina Löwensohn ;31 août 2011;La Guerre est déclarée;4,4;Valérie Donzelli;3,8
+335,Channing Tatum ; Amanda Seyfried ; Richard Jenkins ;31-mars-10;Cher John;3,5;Lasse Hallström;3,6
+336,Sarah Butler ; Chad Lindberg ; Daniel Franzese ;21-sept-11;I Spit on Your Grave;;Steven R. Monroe;3,6
+337,Robert Downey Jr. ; Don Cheadle ; Scarlett Johansson ;28-avr-10;Iron Man 2;3,1;Jon Favreau;3,5
+338,Jeff Bridges ; Garrett Hedlund ; Olivia Wilde ;9 février 2011;Tron l'héritage;2,7;Joseph Kosinski;3,4
+339,Byung-Hun Lee ; Min-sik Choi ; Oh San-ha ;06-juil-11;J'ai rencontré le Diable;4,2;Jee-Woon Kim;4,3
+340,Logan Lerman ; Brandon T. Jackson ; Pierce Brosnan ;10 février 2010;Percy Jackson : le voleur de foudre;2,5;Chris Columbus;2,8
+341,Ryan Gosling ; Michelle Williams ; Mike Vogel ;15-juin-11;Blue Valentine;3,6;Derek Cianfrance;3,8
+342,Matt Damon ; Cécile de France ; Thierry Neuvic ;19-janv-11;Au-delà;2,7;Clint Eastwood;2,6
+343,Fabrice Eboué ; Thomas Ngijol ; Stéfi Celma ;06-juil-11;Case départ;3;Thomas Ngijol;3
+344,Aaron Taylor-Johnson ; Nicolas Cage ; Chloë Grace Moretz ;21-avr-10;Kick-Ass;3,5;Matthew Vaughn;4
+345,Jaden Smith ; Jackie Chan ; Taraji P. Henson ;18 août 2010;Karaté Kid;3,1;Harald Zwart;3,6
+346,Gérard Depardieu ; Gisèle Casadesus ; Maurane ;02-juin-10;La Tête en friche;3,1;Jean Becker;3,9
+347,Jeff Bridges ; Hailee Steinfeld ; Josh Brolin ;23 février 2011;True Grit;4;Ethan Coen;3,9
+348,Poppy Montgomery ; Adam Kaufman ; Chelah Horsdal ;/;L'amour XXL;;Gary Harvey;3,6
+349,Maxime Godart ; Valérie Lemercier ; Kad Merad ;30-sept-09;Le Petit Nicolas;2,8;Laurent Tirard;2,9
+350,Ewan McGregor ; Pierce Brosnan ; Kim Cattrall ;03-mars-10;The Ghost Writer;4,6;Roman Polanski;3,8
+351,Jake Gyllenhaal ; Anne Hathaway ; Oliver Platt ;29 décembre 2010;Love, et autres drogues;2,2;Edward Zwick;3,2
+352,Denzel Washington ; Mila Kunis ; Gary Oldman ;20-janv-10;Le Livre d'Eli;2,4;Albert Hughes;3,4
+353,Noah Ringer ; Dev Patel ; Nicola Peltz ;28-juil-10;Le Dernier maître de l'air;1,9;M. Night Shyamalan;2,4
+354,Angelina Jolie ; Liev Schreiber ; Chiwetel Ejiofor ;25 août 2010;Salt;2,7;Phillip Noyce;3
+355,Michael Cera ; Mary Elizabeth Winstead ; Jason Schwartzman ;1 décembre 2010;Scott Pilgrim;3,4;Edgar Wright;3,8
+356,Sally Hawkins ; Bob Hoskins ; Rosamund Pike ;09-mars-11;We Want Sex Equality;3,7;Nigel Cole;3,8
+357,Zac Efron ; Amanda Crew ; Charlie Tahan ;10-nov-10;Le Secret de Charlie;1,4;Burr Steers;3,6
+358,Guillaume Canet ; Leïla Bekhti ; Slimane Khettabi ;04-janv-12;Une vie meilleure;3,8;Cédric Kahn;3,1
+359,Tyler Labine ; Alan Tudyk ; Katrina Bowden ;1 février 2012;Tucker & Dale fightent le mal;3,7;Eli Craig;3,9
+360,Julia Roberts ; Richard Jenkins ; Javier Bardem ;22-sept-10;Mange, prie, aime;1,7;Ryan Murphy;2,6
+361,Jake Gyllenhaal ; Gemma Arterton ; Ben Kingsley ;26-mai-10;Prince of Persia : les sables du temps;2,6;Mike Newell;3,3
+362,Sylvester Stallone ; Jason Statham ; Jet Li ;18 août 2010;Expendables : unité spéciale;2,8;Sylvester Stallone;3,1
+363,Eric Balfour ; Scottie Thompson ; David Zayas ;15 décembre 2010;Skyline;1,5;Colin Strause;1,6
+364,Sami Bouajila ; Denis Podalydès ; Maurice Bénichou ;22-juin-11;Omar m'a tuer;3,3;Roschdy Zem;3,8
+365,Mark Wahlberg ; Christian Bale ; Amy Adams ;09-mars-11;Fighter;3,9;David O. Russell;4,1
+366,Romain Duris ; Marina Foïs ; Catherine Deneuve ;03-nov-10;L'Homme qui voulait vivre sa vie;3,8;Eric Lartigau;3,2
+367,Adam Butcher ; Shane Kippel ; Mateo Morales ;23-juin-10;Dog Pound;3,5;Kim Chapiron;4,1
+368,Leila Hatami ; Peyman Moaadi ; Shahab Hosseini ;08-juin-11;Une Séparation;4,7;Asghar Farhadi;4,2
+369,Louise Bourgoin ; Gilles Lellouche ; Mathieu Amalric ;14-avr-10;Adèle Blanc-Sec;2,8;Luc Besson;2,5
+370,Tom Cruise ; Cameron Diaz ; Peter Sarsgaard ;28-juil-10;Night and Day;2,9;James Mangold;3,1
+371,Jackie Earle Haley ; Kyle Gallner ; Rooney Mara ;12-mai-10;Freddy - Les Griffes de la nuit;1,5;Samuel Bayer;2,4
+372,Dwayne Johnson ; Ashley Judd ; Julie Andrews ;09-juin-10;Fée malgré lui;2;Michael Lembeck;2,3
+373,Russell Crowe ; Cate Blanchett ; Max von Sydow ;12-mai-10;Robin des Bois;3,4;Ridley Scott;3,2
+374,Miley Cyrus ; Liam Hemsworth ; Greg Kinnear ;03-nov-10;La Dernière chanson;;Julie Anne Robinson;4
+375,Jim Sturgess ; Ed Harris ; Saoirse Ronan ;26-janv-11;Les Chemins de la liberté;3,1;Peter Weir;3,8
+376,Shah Rukh Khan ; Kajol Devgan ; Shane Harper ;26-mai-10;My Name Is Khan;3,4;Karan Johar;4,3
+377,Dominique Blanc ; Bruno Salomone ; Jean Benguigui ;15 décembre 2010;Une vie de chat;3,6;Alain Gagnol;3,9
+378,Kazato Tomizawa ; Aoi Miyazaki ; Akina Minami ;16-nov-11;Colorful;3,6;Keiichi Hara;4,2
+379,Jean-Philippe Puymartin ; Richard Darbois ; Benoît Magimel ;14-juil-10;Toy Story 3;4,7;Lee Unkrich;4,4
+380,Kristin Scott Thomas ; Mélusine Mayance ; Niels Arestrup ;13-oct-10;Elle s'appelait Sarah;3,3;Gilles Paquet-Brenner;4,1
+381,Eric Elmosnino ; Lucy Gordon ; Laetitia Casta ;20-janv-10;Gainsbourg (Vie héroïque);3,8;Joann Sfar;3,6
+382,Ving Rhames ; Elisabeth Shue ; Christopher Lloyd ;01-sept-10;Piranha 3D;3,5;Alexandre Aja;2,6
+383,Ryan Driller ; Dale DaBone ; Will Ryder ;/;Superman XXX: A Porn Parody;;Axel Braun;3,3
+384,Sam Worthington ; Liam Neeson ; Ralph Fiennes ;07-avr-10;Le Choc des Titans;2,9;Louis Leterrier;2,3
+385,Jim Sturgess ; Emily Barclay ; Abbie Cornish ;27-oct-10;Le Royaume de Ga'Hoole - la légende des gardiens;3,1;Zack Snyder;3,8
+386,Mélanie Thierry ; Lambert Wilson ; Grégoire Leprince-Ringuet ;03-nov-10;La Princesse de Montpensier;3,4;Bertrand Tavernier;3,1
+387,Guy Pearce ; James Frecheville ; Jacki Weaver ;27-avr-11;Animal Kingdom;4;David Michôd;3,7
+388,Clive Owen ; Catherine Keener ; Liana Liberato ;18-janv-12;Trust;3,3;David Schwimmer;3,7
+389,Emma Thompson ; Maggie Gyllenhaal ; Rhys Ifans ;31-mars-10;Nanny McPhee et le Big Bang;2,5;Susanna White;2,9
+390,Patricia Kaas ; Serge Hazanavicius ; Raphaël Boshart ;/;Assassinée;;Thierry Binisti;3,2
+391,Ryan Gosling ; Carey Mulligan ; Bryan Cranston ;05-oct-11;Drive;4,4;Nicolas Winding Refn;4
+392,François Cluzet ; Omar Sy ; Anne Le Ny ;02-nov-11;Intouchables;3,7;Eric Toledano;4,4
+393,Chris Hemsworth ; Natalie Portman ; Anthony Hopkins ;27-avr-11;Thor;3;Kenneth Branagh;3,5
+394,Steve Carell ; Ryan Gosling ; Julianne Moore ;14-sept-11;Crazy, Stupid, Love;3;John Requa;3,9
+395,Amanda Seyfried ; Justin Timberlake ; Cillian Murphy ;23-nov-11;Time Out;2,7;Andrew Niccol;3,5
+396,Daniel Brühl ; Marta Etura ; Alberto Ammann ;21-mars-12;Eva;3,3;Kike Maillo;3,7
+397,Emma Stone ; Jessica Chastain ; Viola Davis ;26-oct-11;La Couleur des sentiments;2,5;Tate Taylor;4,4
+398,Hugh Jackman ; Dakota Goyo ; Evangeline Lilly ;19-oct-11;Real Steel;2,8;Shawn Levy;3,8
+399,Patrick Bethune ; Eric Herson-Macarel ; Pierre Laurent ;26-oct-11;Les Aventures de Tintin : Le Secret de la Licorne;3,5;Steven Spielberg;3,6
+400,Bradley Cooper ; Robert De Niro ; Abbie Cornish ;08-juin-11;Limitless;3;Neil Burger;3,9
+401,Tom Cruise ; Jeremy Renner ; Simon Pegg ;14 décembre 2011;Mission : Impossible - Protocole fantôme;3,8;Brad Bird;3,8
+402,Natalie Portman ; Ashton Kutcher ; Kevin Kline ;16 février 2011;Sex Friends;2,3;Ivan Reitman;2,9
+403,Chris Evans ; Hayley Atwell ; Sebastian Stan ;17 août 2011;Captain America : First Avenger;3,3;Joe Johnston;3,4
+404,Johnny Depp ; Penélope Cruz ; Geoffrey Rush ;18-mai-11;Pirates des Caraïbes : la Fontaine de Jouvence;2,5;Rob Marshall;3,3
+405,Anne Hathaway ; Jim Sturgess ; Patricia Clarkson ;24 août 2011;Un jour;3;Lone Scherfig;4
+406,Zoe Saldana ; Amandla Stenberg ; Michael Vartan ;27-juil-11;Colombiana;2,3;Olivier Megaton;3,2
+407,Will Dunn ; Rohan Gotobed ; Daniel Radcliffe ;13-juil-11;Harry Potter et les reliques de la mort - partie 2;3,8;David Yates;4,3
+408,Joel Edgerton ; Tom Hardy ; Jennifer Morrison ;14-sept-11;Warrior;3,6;Gavin O'Connor;4,4
+409,Nora Arnezeder ; Fu'ad Ait Aattou ; Anne Parillaud ;12-sept-12;Ce que le jour doit à la nuit;2,4;Alexandre Arcady;4,2
+410,Karin Viard ; JoeyStarr ; Marina Foïs ;19-oct-11;Polisse;3,7;Maïwenn;4,1
+411,Antonio Banderas ; Elena Anaya ; Marisa Paredes ;17 août 2011;La Piel que Habito;3,7;Pedro Almodóvar;4
+412,Brad Pitt ; Jessica Chastain ; Sean Penn ;17-mai-11;The Tree of Life;3,5;Terrence Malick;2,6
+413,Rooney Mara ; Daniel Craig ; Christopher Plummer ;18-janv-12;Millenium : Les hommes qui n’aimaient pas les femmes;3,8;David Fincher;4,1
+414,Nicolas Cage ; Guy Pearce ; January Jones ;04-janv-12;Le Pacte;2;Roger Donaldson;2,9
+415,Richard Gere ; Topher Grace ; Stephen Moyer ;04-mai-12;Secret Identity;;Michael Brandt;2,5
+416,Reese Witherspoon ; Robert Pattinson ; Christoph Waltz ;04-mai-11;De l'eau pour les éléphants;2,8;Francis Lawrence;3,9
+417,Asa Butterfield ; Chloë Grace Moretz ; Ben Kingsley ;14 décembre 2011;Hugo Cabret;4,1;Martin Scorsese;3,8
+418,Kristen Connolly ; Chris Hemsworth ; Anna Hutchison ;02-mai-12;La Cabane dans les bois;3,5;Drew Goddard;2,9
+419,Iko Uwais ; Yayan Ruhian ; Joe Taslim ;20-juin-12;The Raid;3,7;Gareth Evans;3,8
+420,James Franco ; Freida Pinto ; John Lithgow ;10 août 2011;La Planète des singes : les origines;3,3;Rupert Wyatt;4,1
+421,Jake Gyllenhaal ; Michelle Monaghan ; Vera Farmiga ;20-avr-11;Source Code;3,3;Duncan Jones;3,8
+422,Patrick Bruel ; Valérie Benguigui ; Charles Berling ;25-avr-12;Le Prénom;3,2;Alexandre De La Patellière;4
+423,James McAvoy ; Michael Fassbender ; Kevin Bacon ;01-juin-11;X-Men: Le Commencement;3,6;Matthew Vaughn;4,1
+424,Esther Comar ; Martin Cannavo ; Vincent Perez ;18-janv-12;Ma Première fois;3;Marie-Castille Mention-Schaar;3,6
+425,Michael Fassbender ; Carey Mulligan ; James Badge Dale ;7 décembre 2011;Shame;4;Steve McQueen (II);3,5
+426,Leonardo DiCaprio ; Naomi Watts ; Armie Hammer ;11-janv-12;J. Edgar;3,9;Clint Eastwood;3,3
+427,Kyle Chandler ; Joel Courtney ; Elle Fanning ;3 août 2011;Super 8;3,8;J.J. Abrams;3,6
+428,Michael Shannon ; Jessica Chastain ; Tova Stewart ;04-janv-12;Take Shelter;4,6;Jeff Nichols;3,9
+429,Alex Pettyfer ; Timothy Olyphant ; Teresa Palmer ;06-avr-11;Numéro quatre;1,9;D.J. Caruso;3,3
+430,Matt Damon ; Emily Blunt ; Michael Kelly ;23-mars-11;L'Agence;3;George Nolfi;3,5
+431,Justin Timberlake ; Mila Kunis ; Patricia Clarkson ;07-sept-11;Sexe entre amis;2,5;Will Gluck;3,5
+432,Vin Diesel ; Paul Walker ; Dwayne Johnson ;04-mai-11;Fast and Furious 5;3,3;Justin Lin;4
+433,Jeremy Irvine ; Emily Watson ; Peter Mullan ;22 février 2012;Cheval de guerre;3,5;Steven Spielberg;4
+434,Robert Downey Jr. ; Jude Law ; Noomi Rapace ;25-janv-12;Sherlock Holmes 2 : Jeu d'ombres;3,1;Guy Ritchie;4
+435,Quim Gutiérrez ; Martina García ; Clara Lago ;04-juil-12;Inside;3;Andrés Baiz;3,8
+436,Gary Oldman ; Mark Strong ; John Hurt ;8 février 2012;La Taupe;4;Tomas Alfredson;2,9
+437,Philippe Peythieu ; Catherine O'Hara ; Vanessa Paradis ;12-oct-11;Un monstre à Paris;3,4;Eric Bergeron;3,9
+438,Owen Wilson ; Rachel McAdams ; Michael Sheen ;11-mai-11;Minuit à Paris;4,2;Woody Allen;3,8
+439,Audrey Tautou ; François Damiens ; Bruno Todeschini ;21 décembre 2011;La Délicatesse;2,5;David Foenkinos;3,5
+440,Emily Browning ; Abbie Cornish ; Jena Malone ;30-mars-11;Sucker Punch;3;Zack Snyder;3,3
+441,Gaspard Proust ; Louise Bourgoin ; JoeyStarr ;18-janv-12;L'Amour dure trois ans;3,1;Frédéric Beigbeder;2,9
+442,Eric Elmosnino ; Mathilde Seigner ; Fred Testot ;14-sept-11;La Guerre des Boutons;2,6;Yann Samuell;3
+443,Deborah Révy ; Hélène Zimmer ; Gowan Didi ;14-sept-11;Q;1,6;Laurent Bouhnik;2,2
+444,Sophie Marceau ; Gad Elmaleh ; Maurice Barthélémy ;27-juin-12;Un Bonheur n'arrive jamais seul;2,4;James Huth;3,4
+445,Kenny Wormald ; Julianne Hough ; Dennis Quaid ;21 décembre 2011;Footloose;2;Craig Brewer;3,5
+446,Tilda Swinton ; John C. Reilly ; Ezra Miller ;28-sept-11;We Need to Talk About Kevin;3,7;Lynne Ramsay;4
+447,Taylor Lautner ; Lily Collins ; Alfred Molina ;28-sept-11;Identité Secrète;1,4;John Singleton;2,6
+448,Kirsten Dunst ; Charlotte Gainsbourg ; Alexander Skarsgård ;10 août 2011;Melancholia;4,1;Lars von Trier;3,5
+449,Glenn Close ; Mia Wasikowska ; Aaron Taylor-Johnson ;22 février 2012;Albert Nobbs;2,7;Rodrigo García;3,5
+450,Louise Bourgoin ; Pio Marmai ; Josiane Balasko ;28-sept-11;Un Heureux Événement;3;Rémi Bezançon;3,6
+451,Ryan Reynolds ; Blake Lively ; Peter Sarsgaard ;10 août 2011;Green Lantern;2;Martin Campbell;2,5
+452,Marion Cotillard ; Matt Damon ; Laurence Fishburne ;09-nov-11;Contagion;3,2;Steven Soderbergh;2,6
+453,Franck Dubosc ; Valérie Lemercier ; Gérard Darmon ;05-oct-11;Bienvenue à bord;1,7;Eric Lavaine;2,7
+454,Mélanie Laurent ; Meryl Streep ;" ,16 mars 2011,Pollen,""3,1"",Louie Schwartzberg,""3,9""";;;;;
+455,François-Xavier Demaison ; Nicolas Duvauchelle ; Pierre Niney ;21-nov-12;Comme des frères;3,5;Hugo Gélin;3,9
+456,Tom Hanks ; Thomas Horn ; Sandra Bullock ;29 février 2012;Extrêmement fort et incroyablement près;2,6;Stephen Daldry;3,8
+457,Florence Foresti ; Jamel Debbouze ; Nikki Deloach ;7 décembre 2011;Hollywoo;2,4;Frédéric Berthe;2,4
+458,Masami Nagasawa ; Junichi Okada ; Keiko Takeshita ;11-janv-12;La Colline aux Coquelicots;3,4;Goro Miyazaki;4
+459,Kevin Vaz ; Johan Jonason ; John Ortiz ;22-mai-17;Play;;Ruben Östlund;2,7
+460,Alice Taglioni ; Virginie Efira ; Mehdi Nebbou ;23-janv-13;Cookie;2;Léa Fazer;3,1
+461,Roschdy Zem ; Leïla Bekhti ; Marc Lavoine ;11-juil-12;Mains armées;3,2;Pierre Jolivet;2,3
+462,Leïla Bekhti ; Hafsia Herzi ; Hiam Abbass ;02-nov-11;La source des femmes;2,4;Radu Mihaileanu;3,8
+463,Kristen Wiig ; Rose Byrne ; Maya Rudolph ;10 août 2011;Mes meilleures amies;3,8;Paul Feig;3
+464,Bruno Choel ; Adeline Moreau ; Charlotte Piazza ;23-mars-11;Rango;3,4;Gore Verbinski;3,5
+465,Liam Neeson ; Diane Kruger ; January Jones ;02-mars-11;Sans identité;2,7;Jaume Collet-Serra;3,5
+466,Henry Cavill ; Mickey Rourke ; Luke Evans ;23-nov-11;Les Immortels;1,9;Tarsem Singh;2,6
+467,Gérard Lanvin ; Tchéky Karyo ; Daniel Duval ;30-nov-11;Les Lyonnais;2,8;Olivier Marchal;3,8
+468,Patrick Huard ; Julie Le Breton ; Antoine Bertrand ;27-juin-12;Starbuck;3,4;Ken Scott;4,2
+469,Jean Dujardin ; Bérénice Bejo ; John Goodman ;12-oct-11;The Artist;4,1;Michel Hazanavicius;4
+470,Nicholas D'Agosto ; Emma Bell ; Miles Fisher ;31 août 2011;Destination Finale 5;2,9;Steven Quale;3,2
+471,Keira Knightley ; Michael Fassbender ; Viggo Mortensen ;21 décembre 2011;A Dangerous Method;3,5;David Cronenberg;3
+472,Amanda Seyfried ; Gary Oldman ; Billy Burke ;20-avr-11;Le Chaperon Rouge;1,9;Catherine Hardwicke;3,1
+473,Philippe Manoeuvre ; Simon Pegg ; Nick Frost ;02-mars-11;Paul;2,9;Greg Mottola;3,5
+474,Ray Stevenson ; Christopher Walken ; Val Kilmer ;30 août 2011;Irish Gangster;;Jonathan Hensleigh;3,6
+475,Patrick Chesnais ; Jeanne Lambert ; Miou-Miou ;13-juin-12;Bienvenue Parmi Nous;1,3;Jean Becker;3,1
+476,Laetitia Casta ; Lorànt Deutsch ; Mustapha El-Atrassi ;13-avr-11;Rio;3,4;Carlos Saldanha;4
+477,Richard Roxburgh ; Rhys Wakefield ; Alice Parkinson ;23 février 2011;Sanctum;2,3;Alister Grierson;2,6
+478,Guillaume Canet ; Gilles Lellouche ; Lambert Wilson ;27-juil-11;Cars 2;2,6;Brad Lewis;3,4
+479,Diane Kruger ; Djimon Hounsou ; Benoît Magimel ;02-nov-11;Forces spéciales;1,2;Stephane Rybojad;3,7
+480,Jamie Foxx ; Christoph Waltz ; Leonardo DiCaprio ;16-janv-13;Django Unchained;4,5;Quentin Tarantino;4,5
+481,Jennifer Lawrence ; Josh Hutcherson ; Liam Hemsworth ;21-mars-12;Hunger Games;3,4;Gary Ross;3,9
+482,Robert Downey Jr. ; Chris Evans ; Mark Ruffalo ;25-avr-12;Avengers;4;Joss Whedon;4,2
+483,Tom Hanks ; Halle Berry ; Jim Broadbent ;13-mars-13;Cloud Atlas;3,4;Lana Wachowski;4
+484,Suraj Sharma ; Irrfan Khan ; Adil Hussain ;19 décembre 2012;L'Odyssée de Pi;3,6;Ang Lee;4,1
+485,Bruce Willis ; Joseph Gordon-Levitt ; Emily Blunt ;31-oct-12;Looper;3,9;Rian Johnson;3,8
+486,Bradley Cooper ; Jennifer Lawrence ; Robert De Niro ;30-janv-13;Happiness Therapy;3,5;David O. Russell;3,9
+487,Christian Bale ; Gary Oldman ; Tom Hardy ;25-juil-12;The Dark Knight Rises;3,6;Christopher Nolan;4,3
+488,David Oakes ; Tom Kane ; Florence Hall ;24-sept-12;Action ou vérité;;Robert Heath;3
+489,Ethan Hawke ; Juliet Rylance ; Fred Dalton Thompson ;07-nov-12;Sinister;3,2;Scott Derrickson;3,7
+490,Johan Heldenbergh ; Veerle Baetens ; Nell Cattrysse ;28 août 2013;Alabama Monroe;3,7;Felix Van Groeningen;4,4
+491,Logan Lerman ; Emma Watson ; Ezra Miller ;02-janv-13;Le Monde de Charlie;3,3;Stephen Chbosky;4,3
+492,Rachel McAdams ; Channing Tatum ; Jessica Lange ;16-mai-12;Je te promets - The Vow;2;Michael Sucsy;3,9
+493,Norman Thavaud ; Thomas Mann (II) ; Oliver Cooper ;14-mars-12;Projet X;3;Nima Nourizadeh;3,4
+494,Matthew McConaughey ; Reese Witherspoon ; Tye Sheridan ;01-mai-13;Mud - Sur les rives du Mississippi;4,1;Jeff Nichols;4,2
+495,Jessica Biel ; Jodelle Ferland ; Stephen McHattie ;05-sept-12;The Secret;2,6;Pascal Laugier;3
+496,Noomi Rapace ; Michael Fassbender ; Charlize Theron ;30-mai-12;Prometheus;3,4;Ridley Scott;3,3
+497,Andrew Garfield ; Emma Stone ; Rhys Ifans ;04-juil-12;The Amazing Spider-Man;3;Marc Webb;3,6
+498,Serge Faliu ; Alex Goude ; Virginie Efira ;13 février 2013;Hôtel Transylvanie;3;Genndy Tartakovsky;3,8
+499,Kumiko Aso ; Megumi Hayashibara ; Takuma Hiraoka ;29 août 2012;Les Enfants Loups, Ame & Yuki;4,1;Mamoru Hosoda;4,5
+500,Bruce Willis ; Edward Norton ; Bill Murray ;16-mai-12;Moonrise Kingdom;3,7;Wes Anderson;4
+501,Medi Sadoun ; Franck Gastambide ; Jib Pocthier ;11-juil-12;Les Kaïra;3,3;Franck Gastambide;2,4
+502,Ian McKellen ; Martin Freeman ; Richard Armitage ;12 décembre 2012;Le Hobbit : un voyage inattendu;3,2;Peter Jackson;4,2
+503,Shia LaBeouf ; Tom Hardy ; Jason Clarke ;12-sept-12;Des hommes sans loi;3,4;John Hillcoat;4,1
+504,Anna Kendrick ; Skylar Astin ; Ben Platt ;08-mai-13;The Hit Girls;2,5;Jason Moore;4
+505,Colin Farrell ; Woody Harrelson ; Abbie Cornish ;30-janv-13;7 Psychopathes;2,3;Martin McDonagh;3
+506,Jessica Chastain ; Jason Clarke ; Joel Edgerton ;23-janv-13;Zero Dark Thirty;4,1;Kathryn Bigelow;3,9
+507,Colin Farrell ; Kate Beckinsale ; Jessica Biel ;15 août 2012;Total Recall Mémoires Programmées;1,9;Len Wiseman;2,9
+508,Fabrice Luchini ; Ernst Umhauer ; Kristin Scott Thomas ;10-oct-12;Dans la maison;3,5;François Ozon;3,9
+509,Britt Robertson ; Dylan O'Brien ; Craig Roberts ;31-janv-17;The First Time;;Jon Kasdan;4,2
+510,Gaspard Ulliel ; Nolwenn Leroy ; Miglen Mirtchev ;28-nov-12;Les Cinq légendes;3,4;Peter Ramsey;4,2
+511,Naomi Watts ; Ewan McGregor ; Tom Holland ;21-nov-12;The Impossible;3,1;Juan Antonio Bayona;4,1
+512,Daniel Craig ; Judi Dench ; Javier Bardem ;26-oct-12;Skyfall;4;Sam Mendes;4,1
+513,Denzel Washington ; Don Cheadle ; Kelly Reilly ;13 février 2013;Flight;3,2;Robert Zemeckis;3,7
+514,Taylor Kitsch ; Aaron Taylor-Johnson ; Blake Lively ;26-sept-12;Savages;3;Oliver Stone;3,5
+515,Sandrine Kiberlain ; Albert Dupontel ; Nicolas Marié ;16-oct-13;9 mois ferme;4,1;Albert Dupontel;3,6
+516,Tom Cruise ; Rosamund Pike ; Robert Duvall ;26 décembre 2012;Jack Reacher;3,2;Christopher McQuarrie;3,6
+517,Maribel Verdú ; Macarena García ; Daniel Giménez Cacho ;23-janv-13;Blancanieves;4;Pablo Berger;3,4
+518,Dane DeHaan ; Alex Russell ; Michael B. Jordan ;22 février 2012;Chronicle;3,4;Josh Trank;3,5
+519,Bernard Campan ; Jean-Pierre Darroussin ; Eric Elmosnino ;23-oct-13;Le Coeur des hommes 3;1,8;Marc Esposito;2,9
+520,Marion Cotillard ; Matthias Schoenaerts ; Armand Verdure ;17-mai-12;De rouille et d'os;4,3;Jacques Audiard;3,9
+521,François-Xavier Demaison ; Dorothée Pousséo ; Donald Reignoux ;5 décembre 2012;Les Mondes de Ralph;3,3;Rich Moore;4,1
+522,Dwayne Johnson ; Michael Caine ; Josh Hutcherson ;15 février 2012;Voyage au centre de la Terre 2 : L'île mystérieuse;2,1;Brad Peyton;3,2
+523,Hugh Jackman ; Russell Crowe ; Anne Hathaway ;13 février 2013;Les Misérables;2,3;Tom Hooper;3,2
+524,Mads Mikkelsen ; Alicia Vikander ; Mikkel Boe Folsgaard ;21-nov-12;Royal Affair;3,6;Nikolaj Arcel;4,2
+525,Daniel Day-Lewis ; Sally Field ; David Strathairn ;30-janv-13;Lincoln;3,9;Steven Spielberg;3,6
+526,Taylor Kitsch ; Lynn Collins ; Samantha Morton ;07-mars-12;John Carter;3,1;Andrew Stanton;3,3
+527,Taylor Kitsch ; Rihanna ; Liam Neeson ;11-avr-12;Battleship;2,3;Peter Berg;2,8
+528,José Garcia ; Jean-Pierre Marielle ; Franck Dubosc ;26-sept-12;Les Seigneurs;2,6;Olivier Dahan;2,2
+529,Johnny Depp ; Michelle Pfeiffer ; Helena Bonham Carter ;09-mai-12;Dark Shadows;3,5;Tim Burton;3,4
+530,Ben Affleck ; Bryan Cranston ; John Goodman ;07-nov-12;Argo;3,7;Ben Affleck;4,2
+531,Jean-Noël Martin ; Max Boublil ; Aïssa Maïga ;22-janv-14;Prêt à tout;2,2;Nicolas Cuche;2,8
+532,Keira Knightley ; Jude Law ; Aaron Taylor-Johnson ;5 décembre 2012;Anna Karenine;3,2;Joe Wright;3,3
+533,Jeremy Renner ; Rachel Weisz ; Edward Norton ;19-sept-12;Jason Bourne : l'héritage;2,8;Tony Gilroy;3,1
+534,Sacha Baron Cohen ; Anna Faris ; Ben Kingsley ;20-juin-12;The Dictator;2,8;Larry Charles;3,1
+535,Joaquin Phoenix ; Philip Seymour Hoffman ; Amy Adams ;09-janv-13;The Master;3,8;Paul Thomas Anderson;2,8
+536,Jason Biggs ; Alyson Hannigan ; Chris Klein ;02-mai-12;American Pie 4;1,6;Jon Hurwitz;3,7
+537,Reem Kherici ; Cécile Cassel ; Tarek Boudali ;17-juil-13;Paris à tout prix;2,8;Reem Kherici;3,2
+538,Jean Dujardin ; Gilles Lellouche ; Alexandra Lamy ;29 février 2012;Les Infidèles;3;Jean Dujardin;2,1
+539,Rita Blanco ; Joaquim de Almeida ; Roland Giraud ;24-avr-13;La Cage Dorée;3,5;Ruben Alves;4
+540,Josh Brolin ; Ryan Gosling ; Sean Penn ;6 février 2013;Gangster Squad;2,3;Ruben Fleischer;3,8
+541,Mads Mikkelsen ; Thomas Bo Larsen ; Annika Wedderkopp ;14-nov-12;La Chasse;3,1;Thomas Vinterberg;4,2
+542,Liam Neeson ; Dallas Roberts ; Frank Grillo ;29 février 2012;Le Territoire des Loups;3,5;Joe Carnahan;3,5
+543,Kristen Stewart ; Chris Hemsworth ; Charlize Theron ;13-juin-12;Blanche-Neige et le chasseur;3,2;Rupert Sanders;3,3
+544,Diane Kruger ; Dany Boon ; Alice Pol ;31-oct-12;Un Plan Parfait;2,6;Pascal Chaumeil;3
+545,Jim Sturgess ; Kirsten Dunst ; Timothy Spall ;01-mai-13;Upside Down;2,1;Juan Solanas;3,3
+546,Jean-Louis Trintignant ; Emmanuelle Riva ; Isabelle Huppert ;24-oct-12;Amour;4,4;Michael Haneke;3,8
+547,Nina Hoss ; Ronald Zehrfeld ; Rainer Bock ;02-mai-12;Barbara;3,8;Christian Petzold;3,7
+548,Melvil Poupaud ; Suzanne Clément ; Nathalie Baye ;18-juil-12;Laurence Anyways;3,5;Xavier Dolan;4,2
+549,Karl Urban ; Olivia Thirlby ; Lena Headey ;11 février 2013;Dredd;;Pete Travis;3,4
+550,Liam Neeson ; Maggie Grace ; Famke Janssen ;03-oct-12;Taken 2;1,7;Olivier Megaton;3
+551,Pierre Deladonchamps ; Christophe Paou ; Patrick d'Assumçao ;12-juin-13;L'inconnu du lac;4,2;Alain Guiraudie;3,1
+552,Bernadette Lafont ; Carmen Maura ; Dominique Lavanant ;16-janv-13;Paulette;2,6;Jérôme Enrico;3,4
+553,Jeffrey Dean Morgan ; Kyra Sedgwick ; Natasha Calis ;26 décembre 2012;Possédée;2,1;Ole Bornedal;2,9
+554,Paul Brannigan ; John Henshaw ; Gary Maitland ;27-juin-12;La Part des Anges;3,5;Ken Loach;4
+555,Bernard Alane ; Isabelle Spade ; Kacey Mottet Klein ;26-sept-12;Le Magasin des suicides;3,1;Patrice Leconte;2,3
+556,Zac Efron ; Taylor Schilling ; Blythe Danner ;17-oct-12;The Lucky One;;Scott Hicks;3,9
+557,Jonah Hill ; Channing Tatum ; Brie Larson ;06-juin-12;21 Jump Street;2,7;Phil Lord;3,6
+558,Will Smith ; Tommy Lee Jones ; Josh Brolin ;23-mai-12;Men In Black III;3,2;Barry Sonnenfeld;3,5
+559,JoeyStarr ; Mark Wahlberg ; Mila Kunis ;10-oct-12;Ted;3,6;Seth MacFarlane;3,4
+560,Guy Pearce ; Maggie Grace ; Vincent Regan ;18-avr-12;Lock Out;2,3;James Mather (II);2,6
+561,Romain Duris ; Déborah François ; Bérénice Bejo ;28-nov-12;Populaire;3,8;Regis Roinsard;3,8
+562,Denzel Washington ; Ryan Reynolds ; Vera Farmiga ;22 février 2012;Sécurité rapprochée;2,7;Daniel Espinosa;3,5
+563,James Franco ; Vanessa Hudgens ; Selena Gomez ;06-mars-13;Spring Breakers;3,7;Harmony Korine;2,1
+564,Laurent Lafitte ; Christophe Malavoy ; Judith El Zein ;18 décembre 2013;16 ans ou presque;1,8;Tristan Séguéla;2,7
+565,Cameron Diaz ; Jennifer Lopez ; Elizabeth Banks ;20-juin-12;Ce qui vous attend si vous attendez un enfant;1,6;Kirk Jones (II);2,8
+566,Mia Wasikowska ; Nicole Kidman ; Matthew Goode ;01-mai-13;Stoker;3,3;Park Chan-Wook;3,5
+567,Raphaël Personnaz ; Bérénice Bejo ; Guillaume De Tonquédec ;16-oct-13;Au bonheur des ogres;2,6;Nicolas Bary;3,3
+568,Fernanda Andrade ; Simon Quarterman ; Evan Helmuth ;22 février 2012;Devil Inside;2,1;William Brent Bell;1,6
+569,Pål Sverre Valheim Hagen ; Anders Baasmo Christiansen ; Gustaf Skarsgård ;01-avr-15;Kon-Tiki;;Joachim Rønning;3,8
+570,Charlie Hunnam ; Idris Elba ; Rinko Kikuchi ;17-juil-13;Pacific Rim;3,4;Guillermo del Toro;3,7
+571,Mark Wahlberg ; Dwayne Johnson ; Ed Harris ;11-sept-13;No Pain No Gain;3,1;Michael Bay;3,3
+572,Léa Seydoux ; Adèle Exarchopoulos ; Salim Kechiouche ;09-oct-13;La Vie d'Adèle - Chapitres 1 et 2;4,6;Abdellatif Kechiche;3,7
+573,Tom Hanks ; Catherine Keener ; Barkhad Abdi ;20-nov-13;Capitaine Phillips;3,5;Paul Greengrass;4,2
+574,Hugh Jackman ; Jake Gyllenhaal ; Viola Davis ;09-oct-13;Prisoners;3,8;Denis Villeneuve;4,4
+575,Joaquin Phoenix ; Amy Adams ; Rooney Mara ;19-mars-14;Her;3,9;Spike Jonze;4,1
+576,Philippe Lacheau ; Gérard Jugnot ; Clotilde Courau ;16-avr-14;Babysitting;3,2;Philippe Lacheau;4
+577,Meryl Streep ; Julia Roberts ; Ewan McGregor ;26 février 2014;Un été à Osage County;2,9;John Wells;3,6
+578,Jack O'Connell ; Rupert Friend ; Ben Mendelsohn ;04-juin-14;Les Poings contre les murs;3,8;David Mackenzie;4
+579,Mark Wahlberg ; Taylor Kitsch ; Emile Hirsch ;01-janv-14;Du sang et des larmes;2,9;Peter Berg;4,3
+580,Vera Farmiga ; Patrick Wilson ; Ron Livingston ;21 août 2013;Conjuring : Les dossiers Warren;3,3;James Wan;4,2
+581,Leonardo DiCaprio ; Jonah Hill ; Margot Robbie ;25 décembre 2013;Le Loup de Wall Street;4;Martin Scorsese;4,2
+582,Charlotte Gainsbourg ; Stellan Skarsgård ; Stacy Martin ;01-janv-14;Nymphomaniac - Volume 1;3,2;Lars von Trier;3,3
+583,Domhnall Gleeson ; Bill Nighy ; Rachel McAdams ;06-nov-13;Il était temps;3,2;Richard Curtis;4,2
+584,Jesse Eisenberg ; Mark Ruffalo ; Woody Harrelson ;31-juil-13;Insaisissables;2,3;Louis Leterrier;4
+585,Ralph Fiennes ; Tony Revolori ; F. Murray Abraham ;26 février 2014;The Grand Budapest Hotel;4,5;Wes Anderson;4,2
+586,Romain Duris ; Audrey Tautou ; Gad Elmaleh ;24-avr-13;L'Ecume des jours;3;Michel Gondry;2,6
+587,Danny Trejo ; Christina Cox ; Brad Rowe ;/;Froid comme la vengeance;;Sean Olson;2,9
+588,Leonardo DiCaprio ; Tobey Maguire ; Carey Mulligan ;15-mai-13;Gatsby le Magnifique;2,8;Baz Luhrmann;4
+589,Emmylou Homs ; Anaïs Delva ; Donald Reignoux ;4 décembre 2013;La Reine des neiges;3,5;Chris Buck;4,2
+590,Matthew McConaughey ; Jennifer Garner ; Jared Leto ;29-janv-14;Dallas Buyers Club;3,9;Jean-Marc Vallée;4,3
+591,Chiwetel Ejiofor ; Michael Fassbender ; Benedict Cumberbatch ;22-janv-14;12 Years a Slave;4,2;Steve McQueen (II);4,3
+592,Henry Cavill ; Amy Adams ; Michael Shannon ;19-juin-13;Man of Steel;3,3;Zack Snyder;3,6
+593,Ryan Gosling ; Bradley Cooper ; Eva Mendes ;20-mars-13;The Place Beyond the Pines;3,6;Derek Cianfrance;4
+594,Félix Bossuet ; Tchéky Karyo ; Margaux Chatelier ;18 décembre 2013;Belle et Sébastien;2,8;Nicolas Vanier;4,1
+595,Chris Hemsworth ; Natalie Portman ; Tom Hiddleston ;30-oct-13;Thor : Le Monde des ténèbres;2,8;Alan Taylor;3,7
+596,Sandra Bullock ; George Clooney ; Ed Harris ;23-oct-13;Gravity;4,6;Alfonso Cuarón;3,9
+597,Mariya Smolnikova ; Yanina Studilina ; Pyotr Fyodorov ;10-sept-14;Stalingrad;;Fedor Bondarchuk;3,2
+598,Bruce Willis ; John Malkovich ; Mary-Louise Parker ;28 août 2013;Red 2;2,7;Dean Parisot;3,5
+599,Brad Pitt ; Mireille Enos ; Elyes Gabel ;03-juil-13;World War Z;2,9;Marc Forster;3,6
+600,James McAvoy ; Vincent Cassel ; Rosario Dawson ;08-mai-13;Trance;2,9;Danny Boyle;3,8
+601,Ben Stiller ; Kristen Wiig ; Shirley MacLaine ;01-janv-14;La Vie rêvée de Walter Mitty;3,2;Ben Stiller;4
+602,Benoît Poelvoorde ; Laetitia Casta ; Richard Bohringer ;09-janv-13;Une Histoire d'amour;2,1;Hélène Fillières;1,8
+603,Sylvester Stallone ; Arnold Schwarzenegger ; Jim Caviezel ;13-nov-13;Evasion;1,6;Mikael Hafstrom;3,6
+604,Chris Evans ; Jamie Bell ; Tilda Swinton ;30-oct-13;Snowpiercer, Le Transperceneige;4,1;Joon-Ho Bong;3,4
+605,Robert De Niro ; John Travolta ; Milo Ventimiglia ;10 février 2014;Face à face;;Mark Steven Johnson;2,5
+606,Steve Albert ; Hideaki Anno ; Miori Takimoto ;22-janv-14;Le Vent se lève;4,2;Hayao Miyazaki;4,1
+607,Christian Clavier ; Isabelle Nanty ; Pierre-François Martin-Laval ;17-avr-13;Les Profs;2,2;Pierre-François Martin-Laval;2,7
+608,Jake Gyllenhaal ; Mélanie Laurent ; Sarah Gadon ;27 août 2014;Enemy;3,5;Denis Villeneuve;2,9
+609,Virginie Efira ; Pierre Niney ; Gilles Cohen ;06-mars-13;20 ans d'écart;3,6;David Moreau;3,8
+610,Marine Vacth ; Géraldine Pailhas ; Frédéric Pierrot ;21 août 2013;Jeune & Jolie;3,7;François Ozon;3,2
+611,Christian Bale ; Woody Harrelson ; Casey Affleck ;15-janv-14;Les Brasiers de la Colère;2,8;Scott Cooper;3,5
+612,Tom Cruise ; Olga Kurylenko ; Morgan Freeman ;10-avr-13;Oblivion;2,9;Joseph Kosinski;3,6
+613,Forest Whitaker ; Oprah Winfrey ; Mariah Carey ;11-sept-13;Le Majordome;3,2;Lee Daniels;4,3
+614,Ethan Hawke ; Lena Headey ; Max Burkholder ;7 août 2013;American Nightmare;2,5;James DeMonaco;2,6
+615,Jessica Chastain ; Nikolaj Coster-Waldau ; Megan Charpentier ;15-mai-13;Mamá;3,1;Andy Muschietti;3,6
+616,Chris Hemsworth ; Daniel Brühl ; Olivia Wilde ;25-sept-13;Rush;4;Ron Howard;4,4
+617,Valérie Bonneton ; Dany Boon ; Denis Ménochet ;02-oct-13;Eyjafjallajökull;2,5;Alexandre Coffre;2,7
+618,Robert Downey Jr. ; Gwyneth Paltrow ; Don Cheadle ;24-avr-13;Iron Man 3;3,2;Shane Black;4
+619,Matt Damon ; Jodie Foster ; Sharlto Copley ;14 août 2013;Elysium;2,7;Neill Blomkamp;3,4
+620,Charlotte Gainsbourg ; Stellan Skarsgård ; Stacy Martin ;29-janv-14;Nymphomaniac - Volume 2;2,8;Lars von Trier;3,1
+621,Guillaume Gallienne ; André Marcon ; Françoise Fabian ;20-nov-13;Les Garçons et Guillaume, à table !;3,9;Guillaume Gallienne;3,7
+622,Jacques Gamblin ; Alexandra Lamy ; Fabien Héraud ;26-mars-14;De toutes nos forces;3,2;Nils Tavernier;4,1
+623,Karin Viard ; Bouli Lanners ; Pascal Demolon ;22-janv-14;Lulu femme nue;3,8;Solveig Anspach;3,6
+624,José Garcia ; Michaël Youn ; Isabelle Funaro ;20 février 2013;Vive la France;1,8;Michaël Youn;2,3
+625,Jennifer Lawrence ; Josh Hutcherson ; Liam Hemsworth ;27-nov-13;Hunger Games - L'embrasement;3,5;Francis Lawrence;4
+626,Jason Statham ; James Franco ; Winona Ryder ;08-janv-14;Homefront;2,5;Gary Fleder;3,7
+627,Saoirse Ronan ; Max Irons ; Jake Abel ;17-avr-13;Les Âmes Vagabondes;2,4;Andrew Niccol;3,5
+628,Ethan Hawke ; Selena Gomez ; Jon Voight ;02-janv-15;Getaway;;Courtney Solomon;2,4
+629,Chris Pine ; Zachary Quinto ; Benedict Cumberbatch ;12-juin-13;Star Trek Into Darkness;3,7;J.J. Abrams;4
+630,Harrison Ford ; Asa Butterfield ; Hailee Steinfeld ;06-nov-13;La Stratégie Ender;2,5;Gavin Hood;3,5
+631,Simon Pegg ; Nick Frost ; Martin Freeman ;28 août 2013;Le Dernier pub avant la fin du monde;3,2;Edgar Wright;3,5
+632,Lily Collins ; Jamie Campbell Bower ; Robert Sheehan ;16-oct-13;The Mortal Instruments : La Cité des ténèbres;1,8;Harald Zwart;3,5
+633,Martin Freeman ; Richard Armitage ; Ian McKellen ;11 décembre 2013;Le Hobbit : la Désolation de Smaug;3,7;Peter Jackson;4,2
+634,Christian Bale ; Bradley Cooper ; Amy Adams ;5 février 2014;American Bluff;3,2;David O. Russell;3,4
+635,Iain De Caestecker ; Alice Englert ; Allen Leech ;/;In Fear;;Jeremy Lovering;2,8
+636,Naomi Watts ; Robin Wright ; Xavier Samuel ;03-avr-13;Perfect Mothers;3,1;Anne Fontaine;3,4
+637,Ludivine Sagnier ; Nicolas Bedos ; Jonathan Cohen ;03-avr-13;Amour & turbulences;2,8;Alexandre Castagnetti;3,3
+638,Romain Duris ; Audrey Tautou ; Cécile de France ;4 décembre 2013;Casse-tête chinois;3,4;Cédric Klapisch;3,9
+639,James Franco ; Mila Kunis ; Rachel Weisz ;13-mars-13;Le Monde fantastique d'Oz;3,5;Sam Raimi;3,2
+640,Bruce Willis ; Channing Tatum ; Dwayne Johnson ;27-mars-13;G.I. Joe : Conspiration;2,5;Jon M. Chu;2,7
+641,Aki Asakura ; Kengo Kora ; Takeo Chii ;25-juin-14;Le Conte de la princesse Kaguya;4,5;Isao Takahata;4,4
+642,Alain Chabat ; Max Boublil ; Sandrine Kiberlain ;17-avr-13;Les Gamins;3,2;Anthony Marciano;3,8
+643,Gerard Butler ; Aaron Eckhart ; Morgan Freeman ;20-mars-13;La Chute de la Maison Blanche;2,8;Antoine Fuqua;3,5
+644,Michael Fassbender ; Penélope Cruz ; Cameron Diaz ;13-nov-13;Cartel;2,4;Ridley Scott;1,8
+645,Johnny Depp ; Armie Hammer ; Tom Wilkinson ;7 août 2013;Lone Ranger, Naissance d'un héros;3,5;Gore Verbinski;3,5
+646,Julianne Hough ; Josh Duhamel ; Cobie Smulders ;27-nov-13;Un havre de paix;;Lasse Hallström;4
+647,Cate Blanchett ; Alec Baldwin ; Sally Hawkins ;25-sept-13;Blue Jasmine;4,2;Woody Allen;3,7
+648,Alexandra Lamy ; Mélanie Doutey ; Julie Ferrier ;01-janv-14;Jamais le premier soir;2,1;Melissa Drigeard;3
+649,Ryan Gosling ; Kristin Scott Thomas ; Vithaya Pansringarm ;22-mai-13;Only God Forgives;3,4;Nicolas Winding Refn;2,3
+650,Geoffrey Rush ; Jim Sturgess ; Sylvia Hoeks ;16-avr-14;The Best Offer;3,3;Giuseppe Tornatore;4,2
+651,Bradley Cooper ; Ed Helms ; Zach Galifianakis ;29-mai-13;Very Bad Trip 3;2,3;Todd Phillips;3,1
+652,Vin Diesel ; Paul Walker ; Dwayne Johnson ;22-mai-13;Fast & Furious 6;3;Justin Lin;4,1
+653,Paulina García ; Sergio Hernandez ; Marcial Tagle ;19 février 2014;Gloria;3,7;Sebastián Lelio;3
+654,Hugh Jackman ; Tao Okamoto ; Rila Fukushima ;24-juil-13;Wolverine : le combat de l'immortel;2,5;James Mangold;3,3
+655,Karen Gillan ; Brenton Thwaites ; Katee Sackhoff ;03-mars-15;The Mirror;;Mike Flanagan;3,5
+656,Jaden Smith ; Will Smith ; Sophie Okonedo ;05-juin-13;After Earth;2,4;M. Night Shyamalan;2,3
+657,Tom Hanks ; Emma Thompson ; Paul Giamatti ;05-mars-14;Dans l'ombre de Mary - La promesse de Walt Disney;3,5;John Lee Hancock;4,3
+658,Robert Sheehan ; Dev Patel ; Zoë Kravitz ;12 décembre 2017;The Road Within;;Gren Wells;4,1
+659,Dylan O'Brien ; Aml Ameen ; Will Poulter ;15-oct-14;Le Labyrinthe;3,4;Wes Ball;3,8
+660,Eddie Redmayne ; Felicity Jones ; Tom Prior ;21-janv-15;Une merveilleuse histoire du temps;3,3;James Marsh;4,3
+661,Jude Law ; Scoot McNairy ; Ben Mendelsohn ;14-oct-15;Black Sea;;Kevin Macdonald;2,9
+662,Matthew McConaughey ; Anne Hathaway ; Michael Caine ;05-nov-14;Interstellar;3,8;Christopher Nolan;4,5
+663,Kyan Khojandi ; Damon Gameau ; Hugh Jackman ;24-janv-18;Sugarland;3,5;Damon Gameau;4,1
+664,Keanu Reeves ; Michael Nyqvist ; Alfie Allen ;29-oct-14;John Wick;2,9;David Leitch;3,6
+665,Ben Affleck ; Rosamund Pike ; Neil Patrick Harris ;08-oct-14;Gone Girl;4;David Fincher;4,3
+666,Christian Clavier ; Chantal Lauby ; Ary Abittan ;16-avr-14;Qu'est-ce qu'on a fait au Bon Dieu?;3,8;Philippe de Chauveron;3,8
+667,Domhnall Gleeson ; Alicia Vikander ; Oscar Isaac ;03-juin-15;Ex Machina;3,3;Alex Garland;3,9
+668,Chris Pratt ; Zoe Saldana ; Dave Bautista ;13 août 2014;Les Gardiens de la Galaxie;3,8;James Gunn (II);4,2
+669,Nicole Kidman ; Colin Firth ; Mark Strong ;24-sept-14;Avant d'aller dormir;2,3;Rowan Joffe;3,3
+670,Viviane Pascal ; Antoine-Olivier Pilon ; Anne Dorval ;08-oct-14;Mommy;4,3;Xavier Dolan;4,5
+671,Mark Ruffalo ; Zoe Saldana ; Imogene Wolodarsky ;08-juil-15;Daddy Cool;3,5;Maya Forbes;3,5
+672,Benedict Cumberbatch ; Keira Knightley ; Matthew Goode ;28-janv-15;Imitation Game;3,4;Morten Tyldum;4,3
+673,Miles Teller ; J.K. Simmons ; Paul Reiser ;24 décembre 2014;Whiplash;4,1;Damien Chazelle;4,5
+674,Shailene Woodley ; Ansel Elgort ; Nat Wolff ;20 août 2014;Nos étoiles contraires;2,8;Josh Boone;4,3
+675,Annabelle Wallis ; Ward Horton ; Alfre Woodard ;08-oct-14;Annabelle;2,1;John R. Leonetti;2,2
+676,Shailene Woodley ; Theo James ; Kate Winslet ;09-avr-14;Divergente;2,5;Neil Burger;3,9
+677,Adam Sandler ; Drew Barrymore ; Bella Thorne ;12-sept-14;Famille recomposée;;Frank Coraci;3,1
+678,Scarlett Johansson ; Morgan Freeman ; Min-sik Choi ;6 août 2014;Lucy;2,6;Luc Besson;3
+679,Louane Emera ; Karin Viard ; François Damiens ;17 décembre 2014;La Famille Bélier;3,7;Eric Lartigau;4
+680,Pio Marmai ; Lannick Gautry ; Adrianna Gradziel ;28-janv-15;Toute première fois;3,1;Noémie Saglio;3,4
+681,Reese Witherspoon ; Gaby Hoffmann ; Laura Dern ;14-janv-15;Wild;3;Jean-Marc Vallée;3,8
+682,Ricardo Darín ; Oscar Martinez ; Leonardo Sbaraglia ;14-janv-15;Les Nouveaux sauvages;3,5;Damián Szifron;4,1
+683,Kheiron ; Leïla Bekhti ; Gérard Darmon ;04-nov-15;Nous trois ou rien;3,6;Kheiron;4,4
+684,Benicio Del Toro ; Josh Hutcherson ; Claudia Traisac ;05-nov-14;Paradise Lost;2,9;Andrea Di Stefano;3,6
+685,Brad Pitt ; Shia LaBeouf ; Logan Lerman ;22-oct-14;Fury;3,3;David Ayer;4,1
+686,Christian Bale ; Joel Edgerton ; John Turturro ;24 décembre 2014;Exodus: Gods And Kings;3,2;Ridley Scott;2,9
+687,Min-sik Choi ; Ryu Seung-Ryong ; Ku Jin ;06-juil-16;Myeong-ryang;;Han-min Kim;3,3
+688,Jean Dujardin ; Gilles Lellouche ; Benoît Magimel ;3 décembre 2014;La French;3,7;Cédric Jimenez;4,1
+689,Jonny Weston ; Sofia Black D'Elia ; Michelle DeFraites ;25 février 2015;Projet Almanac;2;Dean Israelite;3,4
+690,Michael Keaton ; Zach Galifianakis ; Edward Norton ;25 février 2015;Birdman;4;Alejandro González Iñárritu;3,9
+691,Kyan Khojandi ; Maxime Baudouin ; Damien Ferrette ;11 février 2015;Les Nouveaux Héros;3,8;Don Hall;4,3
+692,Lily Collins ; Sam Claflin ; Christian Cooke ;28-oct-15;Love, Rosie;;Christian Ditter;4,2
+693,Chris Evans ; Scarlett Johansson ; Anthony Mackie ;26-mars-14;Captain America, le soldat de l'hiver;3,2;Anthony Russo;4
+694,Michael Pitt ; Brit Marling ; Astrid Bergès-Frisbey ;24-sept-14;I Origins;3;Mike Cahill (II);4,1
+695,Sullivan Stapleton ; Eva Green ; Lena Headey ;05-mars-14;300 : La naissance d'un Empire;2,5;Noam Murro;3,3
+696,Michelle Monaghan ; James Marsden ; Liana Liberato ;24-avr-15;Une seconde chance;;Michael Hoffman;4
+697,Tom Cruise ; Emily Blunt ; Bill Paxton ;04-juin-14;Edge Of Tomorrow;3,5;Doug Liman;4,1
+698,Jake Gyllenhaal ; Rene Russo ; Riz Ahmed ;26-nov-14;Night Call;3,8;Dan Gilroy;4,1
+699,Maika Monroe ; Keir Gilchrist ; Daniel Zovatto ;4 février 2015;It Follows;4,4;David Robert Mitchell;3,4
+700,Denzel Washington ; Chloë Grace Moretz ; Marton Csokas ;01-oct-14;Equalizer;3,1;Antoine Fuqua;4
+701,Ethan Hawke ; Sarah Snook ; Noah Taylor ;1 décembre 2014;Predestination;;Michael Spierig;3,9
+702,Jack O'Connell ; Domhnall Gleeson ; Garrett Hedlund ;07-janv-15;Invincible;3;Angelina Jolie;4,1
+703,Diego Luna ; Zoe Saldana ; Channing Tatum ;22-oct-14;La Légende de Manolo;3,6;Jorge R. Gutierrez;4
+704,Vincent Cassel ; François Cluzet ; Lola Le Lann ;24-juin-15;Un moment d'égarement;2,6;Jean-François Richet;3,3
+705,Anne Hathaway ; Lola Kirke ; Mary Steenburgen ;24-juin-15;Song One;;Kate Barker-Froyland;2,7
+706,Andy Serkis ; Jason Clarke ; Gary Oldman ;30-juil-14;La Planète des singes : l'affrontement;3,6;Matt Reeves;4
+707,Shane Harper ; Kevin Sorbo ; David A.R. White ;20-sept-17;Dieu n'est pas mort;;Harold Cronk;3,5
+708,Catherine Deneuve ; Rod Paradot ; Benoît Magimel ;13-mai-15;La Tête haute;3,9;Emmanuelle Bercot;4,1
+709,Chloë Grace Moretz ; Mireille Enos ; Joshua Leonard ;17-sept-14;Si je reste;2,9;R.J. Cutler;4
+710,Marcin Dorocinski ; Patrick Wilson ; Maja Ostaszewska ;30-nov-17;Jack Strong;;Wladyslaw Pasikowski;
+711,Andrew Garfield ; Emma Stone ; Jamie Foxx ;30-avr-14;The Amazing Spider-Man : le destin d'un Héros;3;Marc Webb;3,6
+712,Clovis Cornillac ; Mélanie Bernier ; Lilou Fogli ;06-mai-15;Un peu, beaucoup, aveuglément;3,4;Clovis Cornillac;3,7
+713,Essie Davis ; Noah Wiseman ; Daniel Henshall ;30-juil-14;Mister Babadook;3,5;Jennifer Kent;2,8
+714,Vincent Cassel ; Léa Seydoux ; André Dussollier ;12 février 2014;La Belle et La Bête;3,1;Christophe Gans;3,1
+715,Aaron Taylor-Johnson ; Bryan Cranston ; Ken Watanabe ;14-mai-14;Godzilla;3,5;Gareth Edwards (II);2,9
+716,Angelina Jolie ; Elle Fanning ; Sharlto Copley ;28-mai-14;Maléfique;3,5;Robert Stromberg;3,9
+717,Jennifer Lawrence ; Josh Hutcherson ; Liam Hemsworth ;19-nov-14;Hunger Games - La Révolte : Partie 1;3;Francis Lawrence;3,4
+718,Hugh Jackman ; James McAvoy ; Michael Fassbender ;21-mai-14;X-Men: Days of Future Past;3,8;Bryan Singer;4,2
+719,Joséphine Japy ; Lou de Laâge ; Isabelle Carré ;12-nov-14;Respire;3,5;Mélanie Laurent;3,9
+720,Jeff Bridges ; Meryl Streep ; Brenton Thwaites ;29-oct-14;The Giver;2,3;Phillip Noyce;3,5
+721,Pierre Niney ; Ana Girardot ; André Marcon ;18-mars-15;Un homme idéal;3,2;Yann Gozlan;3,7
+722,Martin Freeman ; Richard Armitage ; Evangeline Lilly ;10 décembre 2014;Le Hobbit : la Bataille des Cinq Armées;3,6;Peter Jackson;4
+723,Cameron Diaz ; Jason Segel ; Rob Corddry ;10-sept-14;Sex Tape;2,2;Jake Kasdan;1,9
+724,Michelle Monaghan ; Alan Tudyk ; Sean Astin ;14-mai-14;La Ligue des justiciers : Guerre;;Jay Oliva;3,8
+725,Thomas Blumenthal ; Alice Isaaz ; Jean-Baptiste Lafarge ;02-avr-14;La Crème de la Crème;3,3;Kim Chapiron;3,1
+726,Ellar Coltrane ; Patricia Arquette ; Ethan Hawke ;23-juil-14;Boyhood;4;Richard Linklater;4,2
+727,Donald Reignoux ; Emmanuel Jacomy ; Julien Kramer ;02-juil-14;Dragons 2;4;Dean DeBlois;4,4
+728,Zoey Deutch ; Lucy Fry ; Sarah Hyland ;05-mars-14;Vampire Academy;1,8;Mark Waters;3,1
+729,Alex Pettyfer ; Gabriella Wilde ; Bruce Greenwood ;11-juin-14;Un Amour sans fin;1,8;Shana Feste;3,6
+730,Alexander Fehling ; André Szymanski ; Friederike Becht ;29-avr-15;Le Labyrinthe du silence;4;Giulio Ricciarelli;4,2
+731,Johnny Depp ; Rebecca Hall ; Paul Bettany ;25-juin-14;Transcendance;2,1;Wally Pfister;2,8
+732,Dany Boon ; Alice Pol ; Kad Merad ;26 février 2014;Supercondriaque;2,4;Dany Boon;2,9
+733,Omar Sy ; Charlotte Gainsbourg ; Tahar Rahim ;15-oct-14;Samba;3,6;Eric Toledano;3,4
+734,Mads Mikkelsen ; Eva Green ; Jeffrey Dean Morgan ;27 août 2014;The Salvation;3;Kristian Levring;3,6
+735,Isabelle Adjani ; Vanessa Paradis ; Sylvie Testud ;04-juin-14;Sous Les Jupes Des Filles;2,3;Audrey Dana;2,7
+736,Rachel Melvin ; Cortney Palm ; Lexi Atkins ;17 février 2015;Zombeavers;;Jordan Rubin;
+737,James Franco ; Seth Rogen ; Lizzy Caplan ;28-janv-15;L’ Interview qui tue !;2,1;Seth Rogen;3,2
+738,Guillaume Gallienne ; Hugh Bonneville ; Sally Hawkins ;3 décembre 2014;Paddington;4;Paul King;3,9
+739,Julianne Moore ; Kristen Stewart ; Kate Bosworth ;18-mars-15;Still Alice;3,2;Richard Glatzer;4,1
+740,Iko Uwais ; Julie Estelle ; Yayan Ruhian ;23-juil-14;The Raid 2;3,7;Gareth Evans;4,2
+741,Brenton Thwaites ; Beau Knapp ; Olivia Cooke ;29-janv-15;The Signal;;William Eubank;2,7
+742,Cameron Diaz ; Leslie Mann ; Kate Upton ;18-juin-14;Triple alliance;2,7;Nick Cassavetes;3
+743,Luke Evans ; Sarah Gadon ; Dominic Cooper ;01-oct-14;Dracula Untold;2,2;Gary Shore;3,3
+744,Benoît Poelvoorde ; Yolande Moreau ; Catherine Deneuve ;02-sept-15;Le Tout Nouveau Testament;3,2;Jaco van Dormael;2,5
+745,Liam Neeson ; Julianne Moore ; Scoot McNairy ;26 février 2014;Non-Stop;2,9;Jaume Collet-Serra;3,9
+746,Alicia Vikander ; Kit Harington ; Taron Egerton ;23-sept-15;Mémoires de jeunesse;3,6;James Kent;4
+747,Rickson Tevez ; Eduardo Luis ; Gabriel Weinstein ;12-nov-14;Favelas;2,8;Stephen Daldry;3,8
+748,Melvil Poupaud ; Dominique Blanc ; Diane Rouxel ;16-sept-15;Fou d'amour;3,4;Philippe Ramos;3,2
+749,Robert De Niro ; Anne Hathaway ; Rene Russo ;07-oct-15;Le Nouveau stagiaire;2,9;Nancy Meyers;3,8
+750,Will Smith ; Alec Baldwin ; Albert Brooks ;09-mars-16;Seul contre tous;2,9;Peter Landesman;3,9
+751,Sharlto Copley ; Dev Patel ; Hugh Jackman ;04-mars-15;Chappie;3,3;Neill Blomkamp;3,7
+752,Colin Firth ; Samuel L. Jackson ; Taron Egerton ;18 février 2015;Kingsman : Services secrets;3,9;Matthew Vaughn;4,3
+753,Jamie Dornan ; Dakota Johnson ; Jennifer Ehle ;11 février 2015;Cinquante Nuances de Grey;2,1;Sam Taylor-Johnson;2,6
+754,Daisy Ridley ; John Boyega ; Adam Driver ;16 décembre 2015;Star Wars - Le Réveil de la Force;4;J.J. Abrams;3,7
+755,Matt Damon ; Jessica Chastain ; Kristen Wiig ;21-oct-15;Seul sur Mars;3,4;Ridley Scott;4,1
+756,Isabelle Huppert ; Laurent Lafitte ; Anne Consigny ;25-mai-16;Elle;4,3;Paul Verhoeven;3,4
+757,Brie Larson ; Jacob Tremblay ; Joan Allen ;09-mars-16;Room;3,6;Lenny Abrahamson;4,4
+758,Claudio Santamaria ; Luca Marinelli ; Ilenia Pastorelli ;03-mai-17;On l’appelle Jeeg Robot;3,3;Gabriele Mainetti;3,4
+759,Robert Downey Jr. ; Chris Evans ; Mark Ruffalo ;22-avr-15;Avengers : L'ère d'Ultron;2,9;Joss Whedon;3,9
+760,Charlotte Le Bon ; Pierre Niney ; Mélanie Laurent ;17-juin-15;Vice Versa;4,7;Pete Docter;4,3
+761,Jason Clarke ; Jake Gyllenhaal ; Josh Brolin ;23-sept-15;Everest;2,9;Baltasar Kormákur;3,9
+762,Leonardo DiCaprio ; Tom Hardy ; Domhnall Gleeson ;24 février 2016;The Revenant;3,8;Alejandro González Iñárritu;4,2
+763,Dylan O'Brien ; Ki Hong Lee ; Kaya Scodelario ;07-oct-15;Le Labyrinthe : La Terre brûlée;3;Wes Ball;3,5
+764,Tomer Sisley ; Terence Yin ; Pascal Greggory ;05-avr-17;Le Serpent aux mille coupures;3;Eric Valette;2,4
+765,Ben Foster ; Chris O'Dowd ; Guillaume Canet ;16-sept-15;The Program;3,6;Stephen Frears;3,5
+766,Karl Glusman ; Aomi Muyock ; Klara Kristin ;15-juil-15;Love;3,3;Gaspar Noé;3,2
+767,Jean-Paul Rouve ; Isabelle Nanty ; Claire Nadeau ;3 février 2016;Les Tuche 2 - Le rêve américain;2,8;Olivier Baroux;2,7
+768,Emily Blunt ; Benicio Del Toro ; Josh Brolin ;07-oct-15;Sicario;4;Denis Villeneuve;3,9
+769,Tom Cruise ; Jeremy Renner ; Simon Pegg ;12 août 2015;Mission: Impossible - Rogue Nation;3,7;Christopher McQuarrie;4
+770,Gaspard Schlatter ; Sixtine Murat ; Paulin Jaccoud ;19-oct-16;Ma Vie De Courgette;4,4;Claude Barras;4,4
+771,Samuel L. Jackson ; Kurt Russell ; Jennifer Jason Leigh ;06-janv-16;Les Huit salopards;3,3;Quentin Tarantino;4,1
+772,Tom Hardy ; Emily Browning ; Paul Anderson (XVIII) ;20-janv-16;Legend;3;Brian Helgeland;3,8
+773,Michael Keaton ; Mark Ruffalo ; Rachel McAdams ;27-janv-16;Spotlight;4;Tom McCarthy;4,2
+774,Liam Neeson ; Ed Harris ; Joel Kinnaman ;11-mars-15;Night Run;2,5;Jaume Collet-Serra;3,4
+775,Sami Bouajila ; Guillaume Gouix ; Redouane Behache ;04-mai-16;Braqueurs;3,3;Julien Leclercq;3,6
+776,Hafsia Herzi ; Ash Stymest ; Karole Rocher ;7 décembre 2016;Sex Doll;2,5;Sylvie Verheyde;2,2
+777,Mia Wasikowska ; Tom Hiddleston ; Jessica Chastain ;14-oct-15;Crimson Peak;3,4;Guillermo del Toro;3,6
+778,Dwayne Johnson ; Carla Gugino ; Alexandra Daddario ;27-mai-15;San Andreas;2,8;Brad Peyton;3
+779,Héloïse Martin ; Sylvie Testud ; Cyril Gueï ;26-oct-16;Tamara;3,2;Alexandre Castagnetti;3,9
+780,Bradley Cooper ; Sienna Miller ; Luke Grimes ;18 février 2015;American Sniper;3,8;Clint Eastwood;4,1
+781,Channing Tatum ; Mila Kunis ; Sean Bean ;4 février 2015;Jupiter : Le destin de l'Univers;3;Lilly Wachowski;2,5
+782,Eddie Redmayne ; Alicia Vikander ; Ben Whishaw ;20-janv-16;The Danish Girl;2,7;Tom Hooper;4,1
+783,Jake Gyllenhaal ; Rachel McAdams ; Forest Whitaker ;22-juil-15;La Rage au ventre;3,4;Antoine Fuqua;4,3
+784,Loubna Abidar ; Asmaa Lazrak ; Halima Karaouane ;16-sept-15;Much Loved;4;Nabil Ayouch;3,5
+785,Anthony Hopkins ; Jeffrey Dean Morgan ; Abbie Cornish ;09-sept-15;Prémonitions;2,8;Afonso Poyart;3,5
+786,Orelsan ; Gringe ; Seydou Doucouré ;9 décembre 2015;Comment c’est loin;3,4;Orelsan;4,1
+787,Christian Bale ; Steve Carell ; Ryan Gosling ;23 décembre 2015;The Big Short : le Casse du siècle;3,5;Adam McKay;3,6
+788,Koji Yakusho ; Aoi Miyazaki ; Shôta Sometani ;13-janv-16;Le Garçon et la Bête;4;Mamoru Hosoda;4,4
+789,Mélanie Laurent ; Cyril Dion ; Jeremy Rifkin ;2 décembre 2015;Demain;3,8;Cyril Dion;4,6
+"790,,7 février 2018,Rita et Crocodile,,Siri Melchior,""3,2""";;;;;;;
+791,Philippe Lacheau ; Alice David ; Vincent Desagnat ;2 décembre 2015;Babysitting 2;2,2;Nicolas Benamou;3,6
+792,Édgar Ramírez ; Luke Bracey ; Ray Winstone ;3 février 2016;Point Break;2;Ericson Core;2,4
+793,Pilou Asbæk ; Lars Mikkelsen ; Gustav Dyekjaer Giese ;17-oct-17;Invasion day;;Roni Ezra;3
+794,Chris Pratt ; Bryce Dallas Howard ; Nick Robinson ;10-juin-15;Jurassic World;2,9;Colin Trevorrow;3,6
+795,Vincent Cassel ; Emmanuelle Bercot ; Louis Garrel ;21-oct-15;Mon Roi;3,2;Maïwenn;4
+796,Bradley Cooper ; Sienna Miller ; Daniel Brühl ;04-nov-15;A vif !;2,3;John Wells;3
+797,Henry Cavill ; Armie Hammer ; Alicia Vikander ;16-sept-15;Agents très spéciaux - Code U.N.C.L.E;3,3;Guy Ritchie;4
+798,Paul Rudd ; Evangeline Lilly ; Corey Stoll ;14-juil-15;Ant-Man;3,3;Peyton Reed;3,9
+799,Michael B. Jordan ; Sylvester Stallone ; Tessa Thompson ;13-janv-16;Creed - L'Héritage de Rocky Balboa;3,6;Ryan Coogler;4,3
+800,Keanu Reeves ; Lorenza Izzo ; Ana de Armas ;23-sept-15;Knock Knock;2,4;Eli Roth;2
+801,Güneş Nezihe Şensoy ; Doğa Zeynep Doğuşlu ; Elit İşcan ;17-juin-15;Mustang;4;Deniz Gamze Ergüven;4,3
+802,Vin Diesel ; Paul Walker ; Jason Statham ;01-avr-15;Fast & Furious 7;3,6;James Wan;4,1
+803,Olivia DeJonge ; Ed Oxenbould ; Deanna Dunagan ;07-oct-15;The Visit;3,4;M. Night Shyamalan;3
+804,Pierfrancesco Favino ; Elio Germano ; Claudio Amendola ;9 décembre 2015;Suburra;3,6;Stefano Sollima;4,1
+805,Tilda Swinton ; Ralph Fiennes ; Dakota Johnson ;06-avr-16;A Bigger Splash;2,3;Luca Guadagnino;2,6
+806,Lyndsy Fonseca ; Michael Doneger ; Bruce Campbell ;12 décembre 2016;The Escort;;Will Slocombe;3,1
+807,Daniel Craig ; Christoph Waltz ; Léa Seydoux ;11-nov-15;007 Spectre;3;Sam Mendes;3,5
+808,Ola Rapace ; Micha Lescot ; Thierry Hancisse ;23-nov-16;Arès;3,1;Jean-Patrick Benes;3,5
+809,Catherine Frot ; André Marcon ; Michel Fau ;16-sept-15;Marguerite;4;Xavier Giannoli;3,7
+810,Tom Hanks ; Mark Rylance ; Scott Shepherd (II) ;2 décembre 2015;Le Pont des Espions;3,9;Steven Spielberg;4
+811,Tom Hardy ; Charlize Theron ; Zoë Kravitz ;14-mai-15;Mad Max: Fury Road;4,4;George Miller;4,2
+812,Will Smith ; Margot Robbie ; Rodrigo Santoro ;25-mars-15;Diversion;2,7;Glenn Ficarra;3,2
+813,Chris Hemsworth ; Tang Wei ; Leehom Wang ;18-mars-15;Hacker;3,2;Michael Mann;2,5
+814,Kev Adams ; Jean-Paul Rouve ; Vanessa Guide ;14-oct-15;Les Nouvelles Aventures D'Aladin;2,8;Arthur Benzaquen;1,9
+815,George Clooney ; Hugh Laurie ; Britt Robertson ;20-mai-15;À la poursuite de demain;3,2;Brad Bird;3,3
+816,Kate Winslet ; Liam Hemsworth ; Sarah Snook ;27 décembre 2016;Haute couture;;Jocelyn Moorhouse;4
+"817,,24 février 2016,Merci Patron!,""4,1"",François Ruffin,""4,4""";;;;;;;
+818,Emma Watson ; Daniel Brühl ; Michael Nyqvist ;20-juil-16;Colonia;2,9;Florian Gallenberger;4,2
+819,Jason Statham ; Michael Angarano ; Milo Ventimiglia ;14-janv-15;Joker;2,2;Simon West;2
+820,Cate Blanchett ; Rooney Mara ; Kyle Chandler ;13-janv-16;Carol;4;Todd Haynes;4,1
+821,Marina Foïs ; Laurent Lafitte ; Alexandre Desrousseaux ;4 février 2015;Papa ou maman;3,6;Martin Bourboulon;3,3
+822,Britt Robertson ; Scott Eastwood ; Alan Alda ;15-juil-15;Chemins croisés;;George Tillman Jr.;4,1
+823,Charlize Theron ; Sterling Jerins ; Nicholas Hoult ;08-avr-15;Dark Places;3;Gilles Paquet-Brenner;3,4
+824,Lily James ; Cate Blanchett ; Richard Madden ;25-mars-15;Cendrillon;3;Kenneth Branagh;3,6
+825,Gael García Bernal ; Alison Pill ; Mariana Ximenes ;08-juin-16;Zoom;2,6;Pedro Morelli;2,8
+826,Kev Adams ; Isabelle Nanty ; Didier Bourdon ;01-juil-15;Les Profs 2;2,3;Pierre-François Martin-Laval;2,4
+827,Sami Bouajila ; Franck Gastambide ; Chiara Mastroianni ;30-mars-16;Good Luck Algeria;3,7;Farid Bentoumi;3,4
+828,Colin Farrell ; Rachel Weisz ; Jessica Barden ;28-oct-15;The Lobster;3,4;Yórgos Lánthimos;3,2
+829,Antonio de la Torre ; Luis Callejo ; Ruth Diaz ;26-avr-17;La Colère d’un homme patient;3,6;Raúl Arévalo;3,1
+830,Chris Hemsworth ; Benjamin Walker ; Cillian Murphy ;9 décembre 2015;Au coeur de l'Océan;3,1;Ron Howard;3,7
+831,Saoirse Ronan ; Domhnall Gleeson ; Emory Cohen ;09-mars-16;Brooklyn;3,4;John Crowley;3,9
+832,Adam Sandler ; Michelle Monaghan ; Kevin James ;22-juil-15;Pixels;3,2;Chris Columbus;2,9
+833,Blake Lively ; Michiel Huisman ; Harrison Ford ;22-mai-15;Adaline;;Lee Toland Krieger;4,2
+834,Shaïn Boumedine ; Ophélie Bau ; Salim Kechiouche ;21-mars-18;Mektoub My Love : Canto Uno;4;Abdellatif Kechiche;3,5
+835,Alain Hernández ; Javier Gutiérrez ; Luis Tosar ;02-nov-17;Insiders: Escape Plan;;Iñaki Dorronsoro;2,8
+836,Andrew Bargsted ; Francisco Pérez-Bannen ; Eliseo Fernández ;14-mars-18;Mala Junta;2,7;Claudia Huaiquimilla;3
+837,Catherine Deneuve ; Diane Kruger ; Nekfeu ;08-nov-17;Tout nous sépare;2,8;Thierry Klifa;2,9
+838,Gilles Lellouche ; Louise Bourgoin ; Manu Payet ;19-avr-17;Sous le même toit;2,8;Dominique Farrugia;2,2
+839,Garik Kharlamov ; Ivan Okhlobystin ; Olga Zubkova ;14 février 2018;La Princesse des glaces;2,6;Aleksey Tsitsilin;3
+840,Quim Gutiérrez ; Verónica Echegui ; Aura Garrido ;08-mars-18;La Jeune fille et la brume;;Andrés M. Koppel;2,7
+841,Rebecca Hall ; Dan Stevens ; Gina Gershon ;01-mars-18;Permission;;Brian Crano;2,4
+842,Emma Booth ; Ashleigh Cummings ; Stephen Curry ;12-juil-17;Love Hunters;3,4;Ben Young;3,6
+843,Dev Patel ; Rooney Mara ; Nicole Kidman ;22 février 2017;Lion;3,1;Garth Davis;4,5
+844,Céline Sallette ; Lambert Wilson ; Stéphane De Groodt ;05-avr-17;Corporate;3,4;Nicolas Silhol;3,8
+845,Garance Marillier ; Ella Rumpf ; Rabah Naït Oufella ;15-mars-17;Grave;4,1;Julia Ducournau;3,6
+846,Laetitia Dosch ; Grégoire Monsaingeon ; Souleymane Seye Ndiaye ;01-nov-17;Jeune Femme;3,9;Léonor Serraille;3,5
+847,Kad Merad ; Samir Guesmi ; Renély Alfred ;08-nov-17;La Mélodie;2,9;Rachid Hami;3,4
+848,Ryûnosuke Kamiki ; Mone Kamishiraishi ; Masami Nagasawa ;28 décembre 2016;Your Name;4;Makoto Shinkai;4,6
+849,Medi Sadoun ; Anne Marivin ; Pascal Demolon ;08-mars-17;Baby Phone;2,5;Olivier Casas;3
+850,Ryan Gosling ; Emma Stone ; John Legend ;25-janv-17;La La Land;4,4;Damien Chazelle;4,3
+851,James McAvoy ; Anya Taylor-Joy ; Betty Buckley ;22 février 2017;Split;3,7;M. Night Shyamalan;4,1
+852,Nawell Madani ; François Berléand ; Mimoun Benabderrahmane ;29-nov-17;C'est tout pour moi;3;Nawell Madani;4,5
+853,Luis Tosar ; Raúl Arévalo ; Rodrigo De la Serna ;24-janv-17;Insiders;;Daniel Calparsoro;2,4
+854,Isabelle Huppert ; André Marcon ; Roman Kolinka ;06-avr-16;L'Avenir;3,8;Mia Hansen-Løve;3,2
+"855,,27 septembre 2017,L'Intelligence des Arbres,""2,8"",Julia Dordel,""3,7""";;;;;;;
+856,Andrew Garfield ; Vince Vaughn ; Teresa Palmer ;09-nov-16;Tu ne tueras point;3;Mel Gibson;4,5
+857,Eddie Redmayne ; Katherine Waterston ; Dan Fogler ;16-nov-16;Les Animaux fantastiques;3,5;David Yates;4,1
+858,Emmanuelle Devos ; Suzanne Clément ; Richard Berry ;11-oct-17;Numéro Une;3,3;Tonie Marshall;3,4
+859,Brad Pitt ; Marion Cotillard ; Jared Harris ;23-nov-16;Alliés;2,8;Robert Zemeckis;3,5
+860,Jennifer Lawrence ; Chris Pratt ; Michael Sheen ;28 décembre 2016;Passengers;3,2;Morten Tyldum;3,9
+861,Ryan Reynolds ; Morena Baccarin ; Ed Skrein ;10 février 2016;Deadpool;3;Tim Miller;4,2
+862,Omar Sy ; Gloria Colston ; Clémence Poésy ;7 décembre 2016;Demain Tout Commence;3,2;Hugo Gélin;4,3
+863,Benedict Cumberbatch ; Chiwetel Ejiofor ; Tilda Swinton ;26-oct-16;Doctor Strange;3,1;Scott Derrickson;4
+864,Margot Robbie ; Will Smith ; Jared Leto ;3 août 2016;Suicide Squad;2;David Ayer;2,9
+865,Amy Adams ; Jeremy Renner ; Forest Whitaker ;7 décembre 2016;Premier Contact;4,1;Denis Villeneuve;4,1
+866,Chris Evans ; Robert Downey Jr. ; Scarlett Johansson ;27-avr-16;Captain America: Civil War;3,2;Anthony Russo;4
+867,Ross O'Hennessy ; Ben Loyd-Holmes ; Silvio Simac ;2 février 2018;Knights of the Damned;;Simon Wells;2,6
+868,Ahmed Sylla ; Alice Belaïdi ; Kevin Razy ;25-janv-17;L'Ascension;3,6;Ludovic Bernard;4,1
+869,Taraji P. Henson ; Octavia Spencer ; Janelle Monáe ;08-mars-17;Les Figures de l'ombre;3,3;Theodore Melfi;4,4
+870,Alice Pol ; Dany Boon ; Michel Blanc ;1 février 2017;RAID Dingue;2,8;Dany Boon;2,9
+871,Louise Bourgoin ; Stéphane De Groodt ; Pierre-François Martin-Laval ;20-sept-17;L'un dans l'autre;1,9;Bruno Chiche;2,6
+872,Patrick Bruel ; Jenifer Bartoli ; Elodie Martelet ;25-janv-17;Tous en scène;3,6;Garth Jennings;4,2
+873,Guillaume Canet ; Marion Cotillard ; Gilles Lellouche ;15 février 2017;Rock'n Roll;3,3;Guillaume Canet;2,7
+874,Jessica Chastain ; Mark Strong ; Sam Waterston ;08-mars-17;Miss Sloane;3,2;John Madden;4,1
+875,Gaspard Ulliel ; Nathalie Baye ; Léa Seydoux ;21-sept-16;Juste La Fin Du Monde;3,2;Xavier Dolan;3,7
+876,Viggo Mortensen ; Frank Langella ; George MacKay ;12-oct-16;Captain Fantastic;3,6;Matt Ross;4,3
+877,Doria Tillier ; Nicolas Bedos ; Denis Podalydès ;08-mars-17;Monsieur & Madame Adelman;3,4;Nicolas Bedos;4
+878,Joel Edgerton ; Ruth Negga ; Marton Csokas ;15 février 2017;Loving;3,8;Jeff Nichols;3,8
+879,Charlie Hunnam ; Sienna Miller ; Tom Holland ;15-mars-17;The Lost City of Z;4,5;James Gray;3,8
+880,Danila Kozlovsky ; Svetlana Khodchenkova ; Maksim Sukhanov ;18-mars-17;Viking, la naissance d’une nation;;Andrey Kravchuk;2,5
+881,Kate Upton ; Alexandra Daddario ; John Cassini ;19 février 2018;The Layover;;William H. Macy;2,2
+882,Agnès Jaoui ; Thibault de Montalembert ; Pascale Arbillot ;26-avr-17;Aurore;3,4;Blandine Lenoir;3,4
+883,Denzel Washington ; Viola Davis ; Stephen Henderson ;22 février 2017;Fences;2,8;Denzel Washington;3,5
+884,Cerise Calixte ; Anthony Kavanagh ; Mareva Galanter ;30-nov-16;Vaiana, la légende du bout du monde;3,6;John Musker;4,2
+885,Mario Casas ; Bárbara Lennie ; Ana Wagener ;10 août 2017;L'Accusé;;Oriol Paulo;4,3
+886,Alexandra Lamy ; Arnaud Ducret ; Jamie Bamber ;15-mars-17;L'Embarras Du Choix;2,8;Eric Lavaine;3
+887,Emilia Clarke ; Sam Claflin ; Janet McTeer ;22-juin-16;Avant toi;2,9;Thea Sharrock;4,3
+888,Chris Pine ; Ben Foster ; Jeff Bridges ;07-sept-16;Comancheria;4;David Mackenzie;4
+889,Eva Green ; Asa Butterfield ; Samuel L. Jackson ;05-oct-16;Miss Peregrine et les enfants particuliers;3,7;Tim Burton;4
+890,Natalie Portman ; Peter Sarsgaard ; Greta Gerwig ;1 février 2017;Jackie;4;Pablo Larraín;3
+891,Finnegan Oldfield ; Grégory Gadebois ; Vincent Macaigne ;22-nov-17;Marvin ou la belle éducation;3,2;Anne Fontaine;3,9
+892,Alex R. Hibbert ; Ashton Sanders ; Trevante Rhodes ;1 février 2017;Moonlight;4,2;Barry Jenkins;4
+893,Ryan Gosling ; Russell Crowe ; Margaret Qualley ;15-mai-16;The Nice Guys;3,7;Shane Black;3,8
+894,Ben Affleck ; Henry Cavill ; Jesse Eisenberg ;23-mars-16;Batman v Superman : L’Aube de la Justice;2,6;Zack Snyder;3,5
+895,Felicity Jones ; Diego Luna ; Ben Mendelsohn ;14 décembre 2016;Rogue One: A Star Wars Story;3,7;Gareth Edwards (II);4,2
+"896,,12 avril 2017,A voix haute - La force de la parole,""4,0"",Stéphane De Freitas,""4,5""";;;;;;;
+897,David Marsais ; Grégoire Ludig ; Alice Vial ;02-nov-16;La Folle Histoire de Max et Léon;3,2;Jonathan Barré;3,8
+898,Andrew Garfield ; Adam Driver ; Liam Neeson ;8 février 2017;Silence;3,8;Martin Scorsese;3,5
+899,Sofia Lesaffre ; Stéphane Bak ; Jean-Stan du Pac ;8 février 2017;Seuls;3;David Moreau;2,5
+900,Dany Boon ; Laurence Arné ; Noémie Schmidt ;28-sept-16;Radin!;2,8;Fred Cavayé;2,4
+901,Will Smith ; Kate Winslet ; Keira Knightley ;21 décembre 2016;Beauté cachée;1,9;David Frankel;3,9
+902,Zoey Deutch ; Halston Sage ; Elena Kampouris ;07-juil-17;Le Dernier jour de ma vie;;Ry Russo-Young;3,8
+903,Michael Fassbender ; Marion Cotillard ; Jeremy Irons ;21 décembre 2016;Assassin's Creed;2,7;Justin Kurzel;3
+904,Thomas Solivérès ; Tanya Lopert ; Albert Delpy ;19-juil-17;Sales Gosses;2,6;Frédéric Quiring;2,5
+905,Marie-Eugénie Maréchal ; Alexis Victor ; Pascal Elbé ;17 février 2016;Zootopie;4;Byron Howard;4,4
+906,Gong Yoo ; Soo-an Kim ; Yumi Jung ;17 août 2016;Dernier train pour Busan;4;Sang-Ho Yeon;4,1
+907,Adam Driver ; Golshifteh Farahani ; Rizwan Manji ;21 décembre 2016;Paterson;4,1;Jim Jarmusch;3,5
+908,Pierre Niney ; François Civil ; Igor Gotesman ;30-mars-16;Five;3;Igor Gotesman;3,9
+909,Joseph Gordon-Levitt ; Shailene Woodley ; Melissa Leo ;02-nov-16;Snowden;3,3;Oliver Stone;4
+910,Reda Kateb ; Cécile de France ; Bea Palya ;26-avr-17;Django;3;Etienne Comar;3,5
+911,Clémence Poésy ; David Morrissey ; Stephen Campbell Moore ;22-mars-17;London House;3;David Farr;2,7
+912,Gerard Butler ; Aaron Eckhart ; Morgan Freeman ;02-mars-16;La Chute de Londres;3,2;Babak Najafi;2,9
+913,Franck Gastambide ; Malik Bentalha ; Anouar Toubali ;24 février 2016;Pattaya;3;Franck Gastambide;2,2
+914,Sally Hawkins ; Michael Shannon ; Richard Jenkins ;21 février 2018;La Forme de l'eau - The Shape of Water;4;Guillermo del Toro;3,8
+915,Christian Bale ; Rosamund Pike ; Wes Studi ;14-mars-18;Hostiles;4;Scott Cooper;4,2
+916,Ok-Bin Kim ; Shin Ha-Kyun ; Bang Sung-Jun ;22-mars-18;The Villainess;;Byeong-gil Jeong;3,1
+917,Armie Hammer ; Timothée Chalamet ; Michael Stuhlbarg ;28 février 2018;Call Me By Your Name;4,2;Luca Guadagnino;4,4
+918,Saoirse Ronan ; Laurie Metcalf ; Tracy Letts ;28 février 2018;Lady Bird;3,8;Greta Gerwig;3,7
+919,Maryam Touzani ; Arieh Worthalter ; Abdelilah Rachid ;14-mars-18;Razzia;3,3;Nabil Ayouch;3,8
+920,Isabél Zuaa ; Marjorie Estiano ; Miguel Lobo ;21-mars-18;Les Bonnes Manières;4;Juliana Rojas;3,5
+921,Hugh Jackman ; Zac Efron ; Michelle Williams ;24-janv-18;The Greatest Showman;2,7;Michael Gracey;4,5
+922,Daniel Auteuil ; Camélia Jordana ; Yasin Houicha ;22-nov-17;Le Brio;3,5;Yvan Attal;4
+923,Sandrine Kiberlain ; Agathe Bonitzer ; Melvil Poupaud ;14-mars-18;La Belle et la Belle;3,5;Sophie Fillières;3
+924,Frances McDormand ; Woody Harrelson ; Sam Rockwell ;17-janv-18;3 Billboards, Les Panneaux de la vengeance;3,9;Martin McDonagh;4,3
+925,James Franco ; Dave Franco ; Seth Rogen ;07-mars-18;The Disaster Artist;3,7;James Franco;3,8
+926,Ruby Barnhill ; Kate Winslet ; Jim Broadbent ;21 février 2018;Mary et la fleur de la sorcière;3,4;Hiromasa Yonebayashi;3,8
+927,Daniel Day-Lewis ; Vicky Krieps ; Lesley Manville ;14 février 2018;Phantom Thread;4,3;Paul Thomas Anderson;3,9
+928,Jean-Paul Rouve ; Isabelle Nanty ; Claire Nadeau ;31-janv-18;Les Tuche 3;2,5;Olivier Baroux;2,2
+929,Vincent Lindon ; Galatea Bellugi ; Patrick d'Assumçao ;14 février 2018;L'Apparition;3,5;Xavier Giannoli;3,6
+930,Isabelle Huppert ; Gaspard Ulliel ; Julia Roy ;07-mars-18;Eva;2,6;Benoît Jacquot;1,9
+931,Andrea Santamaria ; Ary Abittan ; François-Xavier Demaison ;29-nov-17;Coco;4,1;Lee Unkrich;4,6
+932,Matt Damon ; Kristen Wiig ; Christoph Waltz ;10-janv-18;Downsizing;3,2;Alexander Payne;2
+933,Max Hubacher ; Milan Peschel ; Frederick Lau ;21-mars-18;The Captain - L'usurpateur;2,9;Robert Schwentke;3,5
+934,Ben Affleck ; Henry Cavill ; Gal Gadot ;15-nov-17;Justice League;2,1;Zack Snyder;3,5
+935,Nahuel Perez Biscayart ; Albert Dupontel ; Laurent Lafitte ;25-oct-17;Au Revoir Là-haut;3,9;Albert Dupontel;4,5
+936,Kristofer Gummerus ; Rami Rusinen ; Matti Onnismaa ;11-avr-18;Rendel;;;2,6
+937,Dwayne Johnson ; Jack Black ; Kevin Hart ;20 décembre 2017;Jumanji : Bienvenue dans la jungle;2,6;Jake Kasdan;3,8
+938,Denzel Washington ; Colin Farrell ; Carmen Ejogo ;14-mars-18;L'Affaire Roman J.;2,5;Dan Gilroy;3,3
+939,Giuseppe Battiston ; Charlotte Cétaire ; Barbora Bobulova ;21-mars-18;Après La Guerre;3;Annarita Zambrano;3,5
+940,Margot Robbie ; Allison Janney ; Sebastian Stan ;21 février 2018;Moi, Tonya;3,5;Craig Gillespie;4,1
+941,Tilman Döbler ; Christian Gaul ; Nicolette Krebitz ;7 février 2018;Le Voyage de Ricky;2,9;Toby Genkel;3,1
+"942,,7 février 2018,""Ni juge, ni soumise"",""3,3"",Jean Libon,""4,2""";;;;;;;
+943,Tarek Boudali ; Philippe Lacheau ; Charlotte Gabris ;25-oct-17;Epouse-moi mon pote;2,2;Tarek Boudali;3,3
+944,Denis Ménochet ; Léa Drucker ; Mathilde Auneveux ;7 février 2018;Jusqu’à la Garde;4,2;Xavier Legrand;4,1
+945,Meryl Streep ; Tom Hanks ; Sarah Paulson ;24-janv-18;Pentagon Papers;4,2;Steven Spielberg;3,9
+946,Jean-Pierre Bacri ; Gilles Lellouche ; Eye Haïdara ;04-oct-17;Le Sens de la fête;3,7;Eric Toledano;4
+947,Félix Bossuet ; Tchéky Karyo ; Clovis Cornillac ;14 février 2018;Belle et Sébastien 3 : le dernier chapitre;2,5;Clovis Cornillac;4
+948,Anya Taylor-Joy ; George MacKay ; Mia Goth ;07-mars-18;Le Secret des Marrowbone;2,7;Sergio G. Sánchez;3,8
+949,Mike Vogel ; Erika Christensen ; Robert Forster ;28 février 2018;Jésus, l'enquête;;Jon Gunn;4
+"950,,14 mars 2018,America,""3,5"",Claus Drexel,""3,7""";;;;;;;
+951,Masami Nagasawa ; Ryuhei Matsuda ; Hiroki Hasegawa ;14-mars-18;Avant que nous disparaissions;3,7;Kiyoshi Kurosawa;3,1
+952,Annah Schaeffer ; Adeline D'Hermy ; Vanessa Paradis ;15-nov-17;Maryline;3;Guillaume Gallienne;2,4
+953,Darya Zhovner ; Veniamin Kats ; Olga Dragunova ;07-mars-18;Tesnota – Une vie à l’étroit;4,1;Kantemir Balagov;3,4
+954,Nahuel Perez Biscayart ; Arnaud Valois ; Adèle Haenel ;23 août 2017;120 battements Par Minute;4,5;Robin Campillo;4,3
+955,Karin Viard ; Dara Tombroff ; Anne Dorval ;08-nov-17;Jalouse;3,3;David Foenkinos;3,6
+956,Benoît Magimel ; Gringe ; Idir Chender ;01-nov-17;Carbone;3,1;Olivier Marchal;4
+957,Teresa Palmer ; Michiel Huisman ; Sam Reid ;06-mars-18;02:22;;Paul Currie;2,7
+958,Daisy Ridley ; John Boyega ; Oscar Isaac ;13 décembre 2017;Star Wars - Les Derniers Jedi;3,5;Rian Johnson;2,9
+959,Kristin Scott Thomas ; Timothy Spall ; Patricia Clarkson ;13-sept-17;The Party;3;Sally Potter;3,4
+960,Benoît Chauvin ; Camille Claris ; Jean Fornerod ;07-mars-18;Les Étoiles Restantes;3,1;Loïc Paillard;4,3
+961,Liam Neeson ; Diane Lane ; Marton Csokas ;01-nov-17;The Secret Man - Mark Felt;3,1;Peter Landesman;2,9
+962,Vincent Macaigne ; Bouli Lanners ; Vanessa Paradis ;14-mars-18;Chien;2,5;Samuel Benchetrit;2,4
+963,Mahershala Ali ; Nia Long ; Mitchell Edwards ;23-mars-18;Roxanne Roxanne;;Michael Larnell;2,8
+964,Adel Karam ; Kamel El Basha ; Camille Salamé ;31-janv-18;L'Insulte;3,8;Ziad Doueiri;4,4
+965,Chris Hemsworth ; Tom Hiddleston ; Cate Blanchett ;25-oct-17;Thor : Ragnarok;3,3;Taika Waititi;3,9
+966,Vincent Elbaz ; Laurence Arné ; Grégory Fitoussi ;01-nov-17;Daddy Cool;2,4;Maxime Govare;3,1
+967,Paul Hamy ; Damien Bonnard ; Pascal Greggory ;21-mars-18;9 Doigts;3,2;Francois-Jacques Ossang;3
+968,Pauline Lorillard ; Vimala Pons ; Diane Rouxel ;28 février 2018;Les Garçons sauvages;3,6;Bertrand Mandico;3,5
+969,Oakes Fegley ; Millicent Simmonds ; Julianne Moore ;15-nov-17;Le Musée des merveilles;3,7;Todd Haynes;3,3
+970,Julia Roberts ; Jacob Tremblay ; Owen Wilson ;20 décembre 2017;Wonder;3;Stephen Chbosky;4,4
+971,Kenneth Branagh ; Johnny Depp ; Michelle Pfeiffer ;13 décembre 2017;Le Crime de l'Orient-Express;2,8;Kenneth Branagh;3,3
+972,Kostja Ullmann ; Jacob Matschenz ; Anna Maria Mühe ;12-janv-18;My blind date with life;;Marc Rothemund;3,1
+973,John Cena ; Kate McKinnon ; David Tennant ;20 décembre 2017;Ferdinand;3,3;Carlos Saldanha;4
+974,Gary Oldman ; Kristin Scott Thomas ; Ben Mendelsohn ;03-janv-18;Les heures sombres;3,7;Joe Wright;4,2
+975,Zita Hanrot ; Clémence Boisnard ; Michel Muller ;28 février 2018;La Fête est finie;3,3;Marie Garel-Weiss;4,1
+976,Noomi Rapace ; Glenn Close ; Willem Dafoe ;30 août 2017;Seven Sisters;3;Tommy Wirkola;4
+977,Bella Thorne ; Chandler Riggs ; Ioan Gruffudd ;14-mars-18;Keep Watching;;Sean Carter;
+978,Gerard Butler ; Jim Sturgess ; Abbie Cornish ;01-nov-17;Geostorm;2;Dean Devlin;2,5
+979,Daniel Kaluuya ; Allison Williams ; Catherine Keener ;03-mai-17;Get Out;4;Jordan Peele;4
+980,Ryan Gosling ; Harrison Ford ; Jared Leto ;04-oct-17;Blade Runner 2049;3,6;Denis Villeneuve;3,7
+981,Bill Skarsgård ; Jaeden Lieberher ; Finn Wolfhard ;20-sept-17;Ça;3,3;Andy Muschietti;3,8
+982,Alexandra Lamy ; Brontis Jodorowsky ; Sonja Wanda ;15-nov-17;Par instinct;2,5;Nathalie Marchak;3,5
+983,Fionn Whitehead ; Mark Rylance ; Tom Hardy ;19-juil-17;Dunkerque;4,1;Christopher Nolan;4
+984,Franck Dubosc ; Alexandra Lamy ; Elsa Zylberstein ;14-mars-18;Tout le monde debout;3,6;Franck Dubosc;4,3
+985,John Boyega ; Scott Eastwood ; Cailee Spaeny ;21-mars-18;Pacific Rim Uprising;2,5;Steven S. DeKnight;3,1
+986,Thierry Lhermitte ; Rayane Bensetti ; Émilie Caen ;21-mars-18;La Finale;3,4;Robin Sykes;3,9
+987,Alicia Vikander ; Dominic West ; Walton Goggins ;14-mars-18;Tomb Raider;2,6;Roar Uthaug;3,7
+988,Dany Boon ; Laurence Arné ; François Berléand ;28 février 2018;La Ch’tite famille;2,9;Dany Boon;3,4
+989,Anthony Bajon ; Damien Chapelle ; Alex Brendemühl ;21-mars-18;La Prière;3,7;Cédric Kahn;3,9
+990,Chadwick Boseman ; Michael B. Jordan ; Lupita Nyong'o ;14 février 2018;Black Panther;3,1;Ryan Coogler;4,1
+991,Storm Reid ; Oprah Winfrey ; Reese Witherspoon ;14-mars-18;Un raccourci dans le temps;1,6;Ava DuVernay;1,7
+992,Crystal Reed ; Anastasia Phillips ; Emilia Jones ;14-mars-18;Ghostland;3,3;Pascal Laugier;4
+993,Natalie Portman ; Jennifer Jason Leigh ; Gina Rodriguez ;12-mars-18;Annihilation;3,3;Alex Garland;
+994,Dylan O'Brien ; Kaya Scodelario ; Thomas Brodie-Sangster ;7 février 2018;Le Labyrinthe : le remède mortel;2,8;Wes Ball;4
+995,Sophie Marceau ; Pierre Richard ; Nicolas Vaude ;07-mars-18;Mme Mills, une voisine si parfaite;1,9;Sophie Marceau;1,6
+996,Adam Devine ; Anders Holm ; Blake Anderson ;23-mars-18;Game Over, Man!;;Kyle Newacheck;2,6
+997,Stéphane Freiss ; Arnaud Binard ; Virginie Lemoine ;/;Les Disparus de Valenciennes;;Elsa Bennett;3
+998,Dakota Johnson ; Jamie Dornan ; Eric Johnson ;7 février 2018;Cinquante Nuances plus claires;2,1;James Foley;3,1
+999,Gerard Butler ; Pablo Schreiber ; Curtis '50 Cent' Jackson ;21 février 2018;Criminal Squad;2,9;Christian Gudegast;3,6
+1000,Pierre Niney ; Kaycie Chase ; Eddie Redmayne ;7 février 2018;Cro Man;3,3;Nick Park;3,2
+1001,Jean Dujardin ; Mélanie Laurent ; Noémie Merlant ;14 février 2018;Le Retour du Héros;3,4;Laurent Tirard;3,7
+1002,Toby Kebbell ; Maggie Grace ; Ryan Kwanten ;28 février 2018;Hurricane;2,4;Rob Cohen;2,5
+1003,Thomas Solivérès ; Alex Lutz ; Ramzy Bedia ;21 février 2018;Les Aventures de Spirou et Fantasio;2,3;Alexandre Coffre;1,7
+1004,Jared Leto ; Tadanobu Asano ; Kippei Shiina ;09-mars-18;The Outsider;;Martin Zandvliet;3,7
+1005,Spencer Stone ; Anthony Sadler ; Alek Skarlatos ;7 février 2018;Le 15h17 pour Paris;2,6;Clint Eastwood;2,6
+1006,Bella Thorne ; Patrick Schwarzenegger ; Rob Riggle ;13-juin-18;Midnight Sun;;Scott Speer;
+1007,Gugu Mbatha-Raw ; David Oyelowo ; Daniel Brühl ;4 février 2018;The Cloverfield Paradox;;Julius Onah;2,4
+1008,Liam Neeson ; Vera Farmiga ; Patrick Wilson ;24-janv-18;The Passenger;2,4;Jaume Collet-Serra;3,5
+1009,Colin Firth ; Rachel Weisz ; David Thewlis ;07-mars-18;Le Jour de mon retour;2,7;James Marsh;3,1
+1010,Alexander Skarsgård ; Paul Rudd ; Justin Theroux ;23 février 2018;Mute;;Duncan Jones;2,6
+1011,Gabriel Bateman ; Darby Camp ; Kiele Sanchez ;16-mars-18;Benji;;Brandon Camp;3,6
+1012,Andrea Lattanzi ; Francesca Antonelli ; Giulia Gorietti ;07-mars-18;Il Figlio, Manuel;3,5;Dario Albertini;3,8
+1013,Matilda Lutz ; Kevin Janssens ; Vincent Colombe ;7 février 2018;Revenge;3;Coralie Fargeat;3,1
