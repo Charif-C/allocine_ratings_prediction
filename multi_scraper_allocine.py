@@ -106,12 +106,14 @@ for annee_url in annees_url:
                 try:
                     type_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].span.text
                     first_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].div.find('span', class_='stareval-note').text[-3:]
+                    first_rating=float(first_rating.replace(',', '.'))
                     # Scrape the press rating
                     if type_rating == ' Presse ':
                         press=first_rating
                         press_ratings.append(press)
                         if len(container.find('div', class_='rating-holder').find_all('div', class_='rating-item')) > 2:
                             spectator=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[1].div.find('span', class_='stareval-note').text[-3:]
+                            spectator=float(spectator.replace(',', '.'))
                             spectators_ratings.append(spectator)
                         else:
                             spectators_ratings.append(np.nan)
@@ -137,4 +139,4 @@ test_df = pd.DataFrame({'movie': names,
 print(test_df.info())
 test_df.head(15)
 
-test_df.to_csv('scrapperv6.csv') # Change version!
+test_df.to_csv('scrapperv8.csv') # Change version!
