@@ -12,7 +12,7 @@ import numpy as np
 # In[95]:
 
 
-url='http://www.allocine.fr/films/genre-13025/decennie-2010/annee-2017/'
+url='http://www.allocine.fr/films/?page=1'
 
 
 # In[96]:
@@ -61,15 +61,18 @@ for container in movie_containers:
         dates.append(date)
         
         # The producer
+        film_producers = str()
         try:
-            producer=container.div.div.find('div', class_='meta-body-item meta-body-direction light').span.text
-            producers.append(producer)
+            for producer_container in container.div.div.find('div', class_='meta-body-item meta-body-direction light').find_all(['a', 'span']):
+                producer = producer_container.text
+                film_producers += "{} ; ".format(producer)
+            producers.append(film_producers)
         except AttributeError:
             producers.append(np.nan)
         
         # The actors
         film_actors = str()
-        for actor_container in container.div.div.find('div', class_='meta-body-item meta-body-actor light').find_all('span'):
+        for actor_container in container.div.div.find('div', class_='meta-body-item meta-body-actor light').find_all(['span', 'a']):
             actor=actor_container.text
             film_actors += "{} ; ".format(actor)
         actors.append(film_actors)
@@ -104,4 +107,4 @@ test_df = pd.DataFrame({'movie': names,
 print(test_df.info())
 test_df
 
-test_df.to_csv('scrapperv5.csv') # Change version
+test_df.to_csv('test.csv') # Change version
