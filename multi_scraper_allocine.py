@@ -87,16 +87,19 @@ for annee_url in annees_url:
                     dates.append(np.nan)
 
                 # Scrape the producer
+                film_producers = str()
                 try:
-                    producer=container.div.div.find('div', class_='meta-body-item meta-body-direction light').span.text
-                    producers.append(producer)
+                    for producer_container in container.div.div.find('div', class_='meta-body-item meta-body-direction light').find_all(['a', 'span']):
+                        producer = producer_container.text
+                        film_producers += "{} ; ".format(producer)
+                    producers.append(film_producers)
                 except AttributeError:
                     producers.append(np.nan)
 
                 # Scrape the actors
                 try:
                     film_actors = str()
-                    for actor_container in container.div.div.find('div', class_='meta-body-item meta-body-actor light').find_all('span'):
+                    for actor_container in container.div.div.find('div', class_='meta-body-item meta-body-actor light').find_all(['a', 'span']):
                         actor=actor_container.text
                         film_actors += "{} ; ".format(actor)
                     actors.append(film_actors)
