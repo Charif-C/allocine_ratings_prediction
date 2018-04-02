@@ -22,6 +22,7 @@ annees_url = [str(i) for i in range(2010,2017)]
 # Lists to store the scraped data in
 names=[]
 dates=[]
+genres=[]
 producers=[]
 actors=[]
 press_ratings=[]
@@ -86,6 +87,16 @@ for annee_url in annees_url:
                 except AttributeError:
                     dates.append(np.nan)
 
+                # Scrape the genre
+                film_genres = str()
+                try:
+                    for genre_container in container.div.div.div.select('span[class*=ACrL2ZACrpbG1z]'):
+                        genre = genre_container.text
+                        film_genres += "{} ; ".format(genre)
+                    genres.append(film_genres)
+                except AttributeError:
+                    genres.append(np.nan)
+
                 # Scrape the producer
                 film_producers = str()
                 try:
@@ -135,7 +146,8 @@ for annee_url in annees_url:
 
 test_df = pd.DataFrame({'movie': names,
                        'date': dates,
-                       'producer': producers,
+                       'genres': genres,
+                       'producers': producers,
                        'actors': actors,
                        'press_rating': press_ratings,
                        'spectators_rating' : spectators_ratings})
