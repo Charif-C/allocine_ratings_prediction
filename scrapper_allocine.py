@@ -39,6 +39,7 @@ movie_containers = html_soup.find_all('div', class_ = 'card card-entity card-ent
 # Lists to store the scraped data in
 names=[]
 dates=[]
+genres=[]
 producers=[]
 actors=[]
 press_ratings=[]
@@ -59,6 +60,16 @@ for container in movie_containers:
         # The date
         date=container.div.div.div.span.text
         dates.append(date)
+
+        # The genre
+        film_genres = str()
+        try:
+            for genre_container in container.div.div.div.select('span[class*=ACrL2ZACrpbG1z]'):
+                genre = genre_container.text
+                film_genres += "{} ; ".format(genre)
+            genres.append(film_genres)
+        except AttributeError:
+            genres.append(np.nan)
         
         # The producer
         film_producers = str()
@@ -79,12 +90,14 @@ for container in movie_containers:
 
         type_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].span.text
         first_rating=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[0].div.find('span', class_='stareval-note').text[-3:]
+        first_rating=float(first_rating.replace(',', '.'))
         # The press rating
         if type_rating == ' Presse ':
             press=first_rating
             press_ratings.append(press)
             if len(container.find('div', class_='rating-holder').find_all('div', class_='rating-item')) == 2:
                 spectator=container.find('div', class_='rating-holder').find_all('div', class_='rating-item')[1].div.find('span', class_='stareval-note').text[-3:]
+                spectator=float(spectator.replace(',', '.'))
                 spectators_ratings.append(spectator)
             else:
                 spectators_ratings.append(np.nan)
@@ -100,6 +113,7 @@ for container in movie_containers:
 
 test_df = pd.DataFrame({'movie': names,
                        'date': dates,
+                       'genres': genres,
                        'producer': producers,
                        'actors': actors,
                        'press_rating': press_ratings,
@@ -107,4 +121,4 @@ test_df = pd.DataFrame({'movie': names,
 print(test_df.info())
 test_df
 
-test_df.to_csv('test.csv') # Change version
+#test_df.to_csv('test.csv') # Change version
