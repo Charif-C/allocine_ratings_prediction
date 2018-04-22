@@ -4,7 +4,7 @@ A partir des informations disponibles sur tous les films déjà sortis à l’é
 
 # Données :
 
-##Source
+## Source
 
 Afin de récupérer les données dont nous avons eu besoin, nous avons décidé de scrapper le site d’Allociné et plus précisément la page : http://www.allocine.fr/films/
 Cette page nous a permis de récupérer les données de plusieurs films pour chaque requête, ce qui a accéléré le fonctionnement de notre scrapper.
@@ -20,7 +20,7 @@ Pour chaque film, nous récupérons :
 -	La note presse
 -	La note spectateurs
 
-##Taille des données récupérées
+## Taille des données récupérées
 
 Plusieurs scrappings ont été mis en place et plusieurs csv ont été créés. En effet, pour améliorer la qualité des données, le volume des csv et la performance du scrapper, nous avons dû faire plusieurs essais.
 
@@ -30,12 +30,12 @@ Le csv final comptait :
 
 Il s’agit d’une concaténation des fichiers : [scrapperv11_1_200.csv](https://github.com/Charif-C/allocine_ratings_prediction/blob/master/scrapperv11_1_200.csv), [scrapperv11_201_400.csv](https://github.com/Charif-C/allocine_ratings_prediction/blob/master/scrapperv11_201_400.csv), [scrapperv11_401_600.csv](https://github.com/Charif-C/allocine_ratings_prediction/blob/master/scrapperv11_401_600.csv), [scrapperv11_601_800.csv](https://github.com/Charif-C/allocine_ratings_prediction/blob/master/scrapperv11_601_800.csv), [scrapperv11_801_1000.csv](https://github.com/Charif-C/allocine_ratings_prediction/blob/master/scrapperv11_801_1000.csv), [scrapperv10_1001_1500.csv](https://github.com/Charif-C/allocine_ratings_prediction/blob/master/scrapperv11_1001_1500.csv), [scrapperv10_1501_2000.csv](https://github.com/Charif-C/allocine_ratings_prediction/blob/master/scrapperv10_1501_2000.csv).
 
-##Nettoyage des données
+## Nettoyage des données
 
 Pour utiliser au mieux les données du site Allociné, il a fallu nettoyer les données et les adapter pour nos traitements.
 Il a fallu par exemple revoir la forme des notes afin de remplacer la virgule par un point pour pouvoir directement utiliser nos colonnes.
 
-##Traitement des données pour utilisation
+## Traitement des données pour utilisation
 
 Dans un premier temps, nous avons arrêté d’utiliser les colonnes Titre et Date, inutiles pour les prévisions de notes. De même, après analyse des données, nous avons décidé de travailler uniquement sur la note des spectateurs qui est plus renseignée que la note presse.
 
@@ -45,16 +45,16 @@ Ce traitement s’est fait dans le fichier [Data_Processing_4.ipynb](https://git
 
 Le CSV utilisable, data_processing_4.csv, compte 25 000 lignes et 40 000 colonnes environ.
 
-#Méthodes utilisées pour la classification :
+# Méthodes utilisées pour la classification :
 
 Afin de traiter notre csv, nous avons utilisé les bibliothèques Python : Pandas, Numpy et ScikitLearn.
 
 Les classifieurs utilisés pour prévoir la note d’un film ont été :
-•	Régression linéaire
-•	Arbre de décision
-•	Random Forest
-•	XGBoost
-•	Gradient Boosting
+  * Régression linéaire
+  * Arbre de décision
+  * Random Forest
+  * XGBoost
+  * Gradient Boosting
 
 Pour évaluer les performances, nous avons utilisé la MSE (Mean Squarred Error) sur la base d'un classifieur "aléatoire" : nous avons ajouté une colonne sur la base d'un array Numpy, avec des notes aléatoire (« random ») de 0 à 5, puis évalué la MSE entre cette colonne et les vraies notes.
 Sur les classifieurs testés, un seul ne converge pas (régression linéaire), et les autres sont meilleurs que l'aléatoire.
