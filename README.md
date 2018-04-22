@@ -54,7 +54,6 @@ Les classifieurs utilisés pour prévoir la note d’un film ont été :
   * Arbre de décision
   * Random Forest
   * XGBoost
-  * Gradient Boosting
 
 Pour évaluer les performances, nous avons utilisé la MSE (Mean Squarred Error) sur la base d'un classifieur "aléatoire" : nous avons ajouté une colonne sur la base d'un array Numpy, avec des notes aléatoire (« random ») de 0 à 5, puis évalué la MSE entre cette colonne et les vraies notes.
 Sur les classifieurs testés, un seul ne converge pas (régression linéaire), et les autres sont meilleurs que l'aléatoire.
